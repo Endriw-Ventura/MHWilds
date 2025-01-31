@@ -1,0 +1,95 @@
+{
+  "monsters": [
+    {
+      "id": 1,
+      "name": "Balahara",
+      "element": ["Water"],
+      "ailments": ["waterblight"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/b/ba/MHWilds-Balahara_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b2/MHWilds-Balahara_Icon.png",
+      "description": "Desert-dwelling leviathans that use their supple, serpentine bodies to create quicksand traps. Weak against sonic bombs when they're submerged.",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 2,
+      "name": "Chatacabra",
+      "element": ["unknown"],
+      "ailments": ["unknown"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/2/23/MHWilds-Chatacabra_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/MHWilds-Chatacabra_Icon.png",
+      "description": "Amphibians that affix rocks to their forelimbs to power up attacks. Break this 'armor' to create an attack opening. The tongue is most vulnerable.",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 3,
+      "name": "Doshaguma",
+      "element": ["unknown"],
+      "ailments": ["unknown"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Windward Plains", "Scarlet Forest"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/a/a6/MHWilds-Doshaguma_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/85/MHWilds-Doshaguma_Icon.png",
+      "description": "Rugged, territorial fanged beasts that exhibit an aggressive disposition and inhabit a large range. Sometimes observed in large packs.",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 4,
+      "name": "Lala Barina",
+      "element": ["unknown"],
+      "ailments": ["Paralysis"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Scarlet Forest"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHWilds-Lala_Barina_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 5,
+      "name": "Nu Udra",
+      "element": ["Fire"],
+      "ailments": ["Fireblight"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Oilwell Basin"],
+      "size": "Large",
+      "img": "unknown",
+      "icon": "unknown",
+      "description": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. A vision of hell, it attacks with tentacles and ignited oilsilt.",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 6,
+      "name": "Rompopolo",
+      "element": ["unknown"],
+      "ailments": ["Poison"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Oilwell Basin"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/f/f1/MHWilds-Rompopolo_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 7,
+      "name": "Quematrice",
+      "element": ["fire"],
+      "ailments": ["fireblight"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/04/MHWilds-Quematrice_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    }
+  ]
+}
