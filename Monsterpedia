@@ -2,6 +2,32 @@
   "monsters": [
     {
       "id": 1,
+      "name": "Ajarakan",
+      "element": ["fire"],
+      "ailments": ["fireblight", "blastblight"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Oilwell Basin"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/a/ae/MHWilds-Ajarakan_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 2,
+      "name": "Arkveld",
+      "element": ["unknown"],
+      "ailments": ["Poison"],
+      "weaknesses": ["unknown"],
+      "habitat": ["unknown"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/MHWilds-Arkveld_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 3,
       "name": "Balahara",
       "element": ["Water"],
       "ailments": ["waterblight"],
@@ -14,7 +40,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 2,
+      "id": 4,
       "name": "Chatacabra",
       "element": ["unknown"],
       "ailments": ["unknown"],
@@ -27,7 +53,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 3,
+      "id": 5,
       "name": "Doshaguma",
       "element": ["unknown"],
       "ailments": ["unknown"],
@@ -40,7 +66,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 4,
+      "id": 6,
       "name": "Lala Barina",
       "element": ["unknown"],
       "ailments": ["Paralysis"],
@@ -53,7 +79,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 5,
+      "id": 7,
       "name": "Nu Udra",
       "element": ["Fire"],
       "ailments": ["Fireblight"],
@@ -66,7 +92,33 @@
       "drops": ["unknown"]
     },
     {
-      "id": 6,
+      "id": 8,
+      "name": "Quematrice",
+      "element": ["fire"],
+      "ailments": ["fireblight"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/04/MHWilds-Quematrice_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 9,
+      "name": "Rey Dau",
+      "element": ["thunder"],
+      "ailments": ["thunderblight"],
+      "weaknesses": ["unknown"],
+      "habitat": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/5/56/MHWilds-Rey_Dau_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b8/MHWilds-Rey_Dau_Icon.png",
+      "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 10,
       "name": "Rompopolo",
       "element": ["unknown"],
       "ailments": ["Poison"],
@@ -79,14 +131,14 @@
       "drops": ["unknown"]
     },
     {
-      "id": 7,
-      "name": "Quematrice",
-      "element": ["fire"],
-      "ailments": ["fireblight"],
+      "id": 11,
+      "name": "Uth Duna",
+      "element": ["water"],
+      "ailments": ["waterblight"],
       "weaknesses": ["unknown"],
-      "habitat": ["Windward Plains"],
+      "habitat": ["Scarlet Forest"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/04/MHWilds-Quematrice_Render_001.png",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/c/c1/MHWilds-Uth_Duna_Render_001.png",
       "icon": "unknown",
       "description": "unknown",
       "drops": ["unknown"]
