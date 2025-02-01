@@ -1,12 +1,11 @@
 {
   "monsters": [
     {
-      "id": 1,
       "name": "Ajarakan",
-      "element": ["fire"],
+      "elements": ["fire"],
       "ailments": ["fireblight", "blastblight"],
       "weaknesses": ["unknown"],
-      "habitat": ["Oilwell Basin"],
+      "habitats": ["Oilwell Basin"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/a/ae/MHWilds-Ajarakan_Render_001.png",
       "icon": "unknown",
@@ -14,12 +13,11 @@
       "drops": ["unknown"]
     },
     {
-      "id": 2,
       "name": "Arkveld",
-      "element": ["unknown"],
+      "elements": ["unknown"],
       "ailments": ["Poison"],
       "weaknesses": ["unknown"],
-      "habitat": ["unknown"],
+      "habitats": ["unknown"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/MHWilds-Arkveld_Render_001.png",
       "icon": "unknown",
@@ -27,12 +25,11 @@
       "drops": ["unknown"]
     },
     {
-      "id": 3,
       "name": "Balahara",
-      "element": ["Water"],
+      "elements": ["Water"],
       "ailments": ["waterblight"],
       "weaknesses": ["unknown"],
-      "habitat": ["Windward Plains"],
+      "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/b/ba/MHWilds-Balahara_Render_001.png",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b2/MHWilds-Balahara_Icon.png",
@@ -40,12 +37,11 @@
       "drops": ["unknown"]
     },
     {
-      "id": 4,
       "name": "Chatacabra",
-      "element": ["unknown"],
+      "elements": ["unknown"],
       "ailments": ["unknown"],
       "weaknesses": ["unknown"],
-      "habitat": ["Windward Plains"],
+      "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/2/23/MHWilds-Chatacabra_Render_001.png",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/MHWilds-Chatacabra_Icon.png",
@@ -53,12 +49,23 @@
       "drops": ["unknown"]
     },
     {
-      "id": 5,
+      "name": "Congalala",
+      "elements": ["Fire (Specific Food Eaten)"],
+      "ailments": ["fireblight", "blastblight", "sleep", "poison", "paralysis", "soiled", "Specific Food Eaten"],
+      "weaknesses": ["fire"],
+      "habitats": ["Scarlet Forest"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/6/64/MHWilds-Congalala_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/8e/MHO-Congalala_Icon.png",
+      "description": "Large, pink-furred Fanged Beasts with an incredible appetite - especially for mushrooms, which the monster often carries around with them. They let rip the most almighty farts, the stench of which overwhelms opponents.",
+      "drops": ["unknown"]
+    },
+    {
       "name": "Doshaguma",
-      "element": ["unknown"],
+      "elements": ["unknown"],
       "ailments": ["unknown"],
       "weaknesses": ["unknown"],
-      "habitat": ["Windward Plains", "Scarlet Forest"],
+      "habitats": ["Windward Plains", "Scarlet Forest"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/a/a6/MHWilds-Doshaguma_Render_001.png",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/85/MHWilds-Doshaguma_Icon.png",
@@ -66,12 +73,35 @@
       "drops": ["unknown"]
     },
     {
-      "id": 6,
+      "name": "Gravios",
+      "elements": ["fire"],
+      "ailments": ["fireblight", "sleep", "poison"],
+      "weaknesses": ["water"],
+      "habitats": ["Oilwell Basin"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/d/d0/MHWilds-Gravios_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/MHO-Gravios_Icon.png",
+      "description": "Flying Wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas. The carapace-like bone they have developed on their bodies for protection are incredibly hard.",
+      "drops": ["unknown"]
+    },
+    {
+      "name": "Gypceros",
+      "elements": ["unknown"],
+      "ailments": ["poison", "noxious poison", "stun"],
+      "weaknesses": ["fire (on tail)"],
+      "habitats": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/MHWilds-Gypceros_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/MHO-Gypceros_Icon.png",
+      "description": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation.",
+      "drops": ["unknown"]
+    },
+    {
       "name": "Lala Barina",
-      "element": ["unknown"],
+      "elements": ["unknown"],
       "ailments": ["Paralysis"],
       "weaknesses": ["unknown"],
-      "habitat": ["Scarlet Forest"],
+      "habitats": ["Scarlet Forest"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHWilds-Lala_Barina_Render_001.png",
       "icon": "unknown",
@@ -79,12 +109,11 @@
       "drops": ["unknown"]
     },
     {
-      "id": 7,
       "name": "Nu Udra",
-      "element": ["Fire"],
+      "elements": ["Fire"],
       "ailments": ["Fireblight"],
       "weaknesses": ["unknown"],
-      "habitat": ["Oilwell Basin"],
+      "habitats": ["Oilwell Basin"],
       "size": "Large",
       "img": "unknown",
       "icon": "unknown",
@@ -92,12 +121,11 @@
       "drops": ["unknown"]
     },
     {
-      "id": 8,
       "name": "Quematrice",
-      "element": ["fire"],
+      "elements": ["fire"],
       "ailments": ["fireblight"],
       "weaknesses": ["unknown"],
-      "habitat": ["Windward Plains"],
+      "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/04/MHWilds-Quematrice_Render_001.png",
       "icon": "unknown",
@@ -105,42 +133,15 @@
       "drops": ["unknown"]
     },
     {
-      "id": 9,
       "name": "Rey Dau",
-      "element": ["thunder"],
+      "elements": ["thunder"],
       "ailments": ["thunderblight"],
       "weaknesses": ["unknown"],
-      "habitat": ["Windward Plains"],
+      "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/5/56/MHWilds-Rey_Dau_Render_001.png",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b8/MHWilds-Rey_Dau_Icon.png",
       "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
-      "drops": ["unknown"]
-    },
-    {
-      "id": 10,
-      "name": "Rompopolo",
-      "element": ["unknown"],
-      "ailments": ["Poison"],
-      "weaknesses": ["unknown"],
-      "habitat": ["Oilwell Basin"],
-      "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/f/f1/MHWilds-Rompopolo_Render_001.png",
-      "icon": "unknown",
-      "description": "unknown",
-      "drops": ["unknown"]
-    },
-    {
-      "id": 11,
-      "name": "Uth Duna",
-      "element": ["water"],
-      "ailments": ["waterblight"],
-      "weaknesses": ["unknown"],
-      "habitat": ["Scarlet Forest"],
-      "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/c/c1/MHWilds-Uth_Duna_Render_001.png",
-      "icon": "unknown",
-      "description": "unknown",
       "drops": ["unknown"]
     }
   ]
