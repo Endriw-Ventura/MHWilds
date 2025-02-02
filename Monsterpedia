@@ -133,18 +133,6 @@
       "drops": ["unknown"]
     },
     {
-      "name": "Rey Dau",
-      "elements": ["thunder"],
-      "ailments": ["thunderblight"],
-      "weaknesses": ["unknown"],
-      "habitats": ["Windward Plains"],
-      "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/5/56/MHWilds-Rey_Dau_Render_001.png",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b8/MHWilds-Rey_Dau_Icon.png",
-      "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
-      "drops": ["unknown"]
-    }
-    {
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
@@ -166,6 +154,30 @@
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/b/be/MHRise-Rathian_Render_001.png",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/3/32/MHW-Rathian_Icon.png",
       "description": "Known by the alternative name of 'Queen of the Land.' With its outstanding leg strength, it hurtles across the land, subduing prey with its venom-laden tail. It has occasionally been spotted hunting together with its male counterpart, Rathalos.",
+      "drops": ["unknown"]
+    },
+    {
+      "name": "Rey Dau",
+      "elements": ["thunder"],
+      "ailments": ["thunderblight"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/5/56/MHWilds-Rey_Dau_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b8/MHWilds-Rey_Dau_Icon.png",
+      "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
+      "drops": ["unknown"]
+    },
+    {
+      "name": "Rompopolo",
+      "elements": ["unknown"],
+      "ailments": ["Poison"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Oilwell Basin"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/f/f1/MHWilds-Rompopolo_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
       "drops": ["unknown"]
     },
     {
