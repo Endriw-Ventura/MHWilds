@@ -84,6 +84,66 @@
       "description": "Flying Wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas. The carapace-like bone they have developed on their bodies for protection are incredibly hard.",
       "drops": ["unknown"]
     },
+{
+      "name": "Gypceros",
+      "elements": ["unknown"],
+      "ailments": ["poison", "noxious poison", "stun"],
+      "weaknesses": ["fire (on tail)"],
+      "habitats": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/MHWilds-Gypceros_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/MHO-Gypceros_Icon.png",
+      "description": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation.",
+      "drops": ["unknown"]
+    },
+    {
+      "name": "Lala Barina",
+      "elements": ["unknown"],
+      "ailments": ["Paralysis"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Scarlet Forest"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHWilds-Lala_Barina_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "name": "Nu Udra",
+      "elements": ["Fire"],
+      "ailments": ["Fireblight"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Oilwell Basin"],
+      "size": "Large",
+      "img": "unknown",
+      "icon": "unknown",
+      "description": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. A vision of hell, it attacks with tentacles and ignited oilsilt.",
+      "drops": ["unknown"]
+    },
+    {
+      "name": "Quematrice",
+      "elements": ["fire"],
+      "ailments": ["fireblight"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/04/MHWilds-Quematrice_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "name": "Rey Dau",
+      "elements": ["thunder"],
+      "ailments": ["thunderblight"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Windward Plains"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/5/56/MHWilds-Rey_Dau_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b8/MHWilds-Rey_Dau_Icon.png",
+      "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
+      "drops": ["unknown"]
+    }
     {
       "name": "Rathalos",
       "elements": ["fire"],
