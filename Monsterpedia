@@ -1,6 +1,7 @@
 {
   "monsters": [
     {
+      "id": 1,
       "name": "Ajarakan",
       "elements": ["fire"],
       "ailments": ["fireblight", "blastblight"],
@@ -13,6 +14,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 2,
       "name": "Arkveld",
       "elements": ["unknown"],
       "ailments": ["Poison"],
@@ -25,6 +27,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 3,
       "name": "Balahara",
       "elements": ["Water"],
       "ailments": ["waterblight"],
@@ -37,6 +40,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 4,
       "name": "Chatacabra",
       "elements": ["unknown"],
       "ailments": ["unknown"],
@@ -49,6 +53,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 5,
       "name": "Congalala",
       "elements": ["Fire (Specific Food Eaten)"],
       "ailments": ["fireblight", "blastblight", "sleep", "poison", "paralysis", "soiled", "Specific Food Eaten"],
@@ -61,6 +66,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 6,
       "name": "Doshaguma",
       "elements": ["unknown"],
       "ailments": ["unknown"],
@@ -73,6 +79,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 7,
       "name": "Gravios",
       "elements": ["fire"],
       "ailments": ["fireblight", "sleep", "poison"],
@@ -84,7 +91,8 @@
       "description": "Flying Wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas. The carapace-like bone they have developed on their bodies for protection are incredibly hard.",
       "drops": ["unknown"]
     },
-{
+    {
+      "id": 8,
       "name": "Gypceros",
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "stun"],
@@ -97,6 +105,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 9,
       "name": "Lala Barina",
       "elements": ["unknown"],
       "ailments": ["Paralysis"],
@@ -109,6 +118,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 10,
       "name": "Nu Udra",
       "elements": ["Fire"],
       "ailments": ["Fireblight"],
@@ -121,6 +131,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 11,
       "name": "Quematrice",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -133,6 +144,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 12,
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
@@ -145,6 +157,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 13,
       "name": "Rathian",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison"],
@@ -157,6 +170,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 14,
       "name": "Rey Dau",
       "elements": ["thunder"],
       "ailments": ["thunderblight"],
@@ -169,6 +183,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 15,
       "name": "Rompopolo",
       "elements": ["unknown"],
       "ailments": ["Poison"],
@@ -181,6 +196,7 @@
       "drops": ["unknown"]
     },
     {
+      "id": 16,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
