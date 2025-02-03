@@ -125,7 +125,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Oilwell Basin"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/MHWilds-Nu_Udra_Render_001.png/revision/latest?cb=20250202192746",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/MHWilds-Nu_Udra_Render_001.png",
       "icon": "unknown",
       "description": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. A vision of hell, it attacks with tentacles and ignited oilsilt.",
       "drops": ["unknown"]
@@ -151,7 +151,7 @@
       "weaknesses": ["water", "ice"],
       "habitats": ["Windward Plains"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/00/MHRise-Rathalos_Render_001.png/revision/latest/scale-to-width-down/1000?cb=20210107154630",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/00/MHRise-Rathalos_Render_001.png",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/8c/MHW-Rathalos_Icon.png",
       "description": "Terrible wyverns called 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
       "drops": ["unknown"]
@@ -164,7 +164,7 @@
       "weaknesses": ["water", "ice"],
       "habitats": ["Windward Plains", "Scarlet Forest", "Oilwell Basin"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/b/be/MHRise-Rathian_Render_001.png/revision/latest?cb=20210217224035",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/b/be/MHRise-Rathian_Render_001.png",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/3/32/MHW-Rathian_Icon.png",
       "description": "Known by the alternative name of 'Queen of the Land.' With its outstanding leg strength, it hurtles across the land, subduing prey with its venom-laden tail. It has occasionally been spotted hunting together with its male counterpart, Rathalos.",
       "drops": ["unknown"]
