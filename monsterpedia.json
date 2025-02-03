@@ -108,7 +108,7 @@
       "id": 9,
       "name": "Lala Barina",
       "elements": ["unknown"],
-      "ailments": ["Paralysis"],
+      "ailments": ["paralysis"],
       "weaknesses": ["unknown"],
       "habitats": ["Scarlet Forest"],
       "size": "Large",
