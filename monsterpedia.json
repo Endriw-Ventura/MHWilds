@@ -96,7 +96,7 @@
       "name": "Gypceros",
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "stun"],
-      "weaknesses": ["fire (on tail)"],
+      "weaknesses": ["fire*", "*on tail*"],
       "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/MHWilds-Gypceros_Render_001.png",
