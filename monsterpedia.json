@@ -55,7 +55,7 @@
     {
       "id": 5,
       "name": "Congalala",
-      "elements": ["*fire", "*Specific Food Eaten*"],
+      "elements": ["fire*", "*Specific Food Eaten*"],
       "ailments": ["fireblight*", "blastblight*", "sleep*", "poison*", "paralysis*", "soiled", "*Specific Food Eaten*"],
       "weaknesses": ["fire"],
       "habitats": ["Scarlet Forest"],
