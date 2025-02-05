@@ -132,6 +132,19 @@
     },
     {
       "id": 11,
+      "name": "Nerscylla",
+      "elements": ["unknown"],
+      "ailments": ["poison", "noxious poison", "webbed"],
+      "weaknesses": ["fire", "thunder"],
+      "habitats": ["Iceshard Cliffs"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/09/MHWilds-Nerscylla_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/1/1c/MHST2-Nerscylla_Icon.png",
+      "description": "Temnocerans that build nests of sticky webbing. They rend prey with their pincer-like jaws after weakening them with abnormal statuses and ensnaring them in web. They will sometimes adorn themselves with the skin of morsels they have not completely finished eating.",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 12,
       "name": "Nu Udra",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -144,7 +157,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Quematrice",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -157,7 +170,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
@@ -170,7 +183,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Rathian",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison"],
@@ -183,7 +196,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Rey Dau",
       "elements": ["thunder"],
       "ailments": ["thunderblight"],
@@ -196,7 +209,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Rompopolo",
       "elements": ["unknown"],
       "ailments": ["poison"],
@@ -209,7 +222,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
