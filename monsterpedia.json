@@ -8,7 +8,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Oilwell Basin"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/a/ae/MHWilds-Ajarakan_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/ajakaran.webp",
       "icon": "unknown",
       "description": "unknown",
       "drops": ["unknown"]
@@ -21,7 +21,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["unknown"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/MHWilds-Arkveld_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/arkveld.webp",
       "icon": "unknown",
       "description": "unknown",
       "drops": ["unknown"]
@@ -34,7 +34,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Windward Plains"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/b/ba/MHWilds-Balahara_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/balahara.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b2/MHWilds-Balahara_Icon.png",
       "description": "Desert-dwelling leviathans that use their supple, serpentine bodies to create quicksand traps. Weak against sonic bombs when they're submerged.",
       "drops": ["unknown"]
@@ -60,7 +60,7 @@
       "weaknesses": ["fire"],
       "habitats": ["Scarlet Forest"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/6/64/MHWilds-Congalala_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/congalala.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/8e/MHO-Congalala_Icon.png",
       "description": "Large, pink-furred Fanged Beasts with an incredible appetite - especially for mushrooms, which the monster often carries around with them. They let rip the most almighty farts, the stench of which overwhelms opponents.",
       "drops": ["unknown"]
@@ -73,7 +73,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Windward Plains", "Scarlet Forest"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/a/a6/MHWilds-Doshaguma_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/doshaguma.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/85/MHWilds-Doshaguma_Icon.png",
       "description": "Rugged, territorial fanged beasts that exhibit an aggressive disposition and inhabit a large range. Sometimes observed in large packs.",
       "drops": ["unknown"]
@@ -86,7 +86,7 @@
       "weaknesses": ["fire", "thunder", "dragon"],
       "habitats": ["unknown"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/1/19/MHWilds-Gore_Magala_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gore-magala.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/2/21/MHRS-Gore_Magala_Icon.png",
       "description": "Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry.",
       "drops": ["unknown"]
@@ -99,7 +99,7 @@
       "weaknesses": ["water"],
       "habitats": ["Oilwell Basin"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/d/d0/MHWilds-Gravios_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gravios.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/MHO-Gravios_Icon.png",
       "description": "Flying Wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas. The carapace-like bone they have developed on their bodies for protection are incredibly hard.",
       "drops": ["unknown"]
@@ -112,7 +112,7 @@
       "weaknesses": ["fire*", "*on tail*"],
       "habitats": ["Windward Plains"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/MHWilds-Gypceros_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gypceros.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/MHO-Gypceros_Icon.png",
       "description": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation.",
       "drops": ["unknown"]
@@ -125,7 +125,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Iceshard Cliffs"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/e/ec/MHWilds-Hirabami_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/hirabami.webp",
       "icon": "unknown",
       "description": "unknown",
       "drops": ["unknown"]
@@ -138,7 +138,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Scarlet Forest"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHWilds-Lala_Barina_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/lala-barina.webp",
       "icon": "unknown",
       "description": "unknown",
       "drops": ["unknown"]
@@ -164,7 +164,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Oilwell Basin"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/MHWilds-Nu_Udra_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nu-udra.webp",
       "icon": "unknown",
       "description": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. A vision of hell, it attacks with tentacles and ignited oilsilt.",
       "drops": ["unknown"]
@@ -177,7 +177,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Windward Plains"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/04/MHWilds-Quematrice_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/quematrice.webp",
       "icon": "unknown",
       "description": "unknown",
       "drops": ["unknown"]
@@ -190,7 +190,7 @@
       "weaknesses": ["water", "ice"],
       "habitats": ["Windward Plains"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/00/MHRise-Rathalos_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathalos.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/8c/MHW-Rathalos_Icon.png",
       "description": "Terrible wyverns called 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
       "drops": ["unknown"]
@@ -203,7 +203,7 @@
       "weaknesses": ["water", "ice"],
       "habitats": ["Windward Plains", "Scarlet Forest", "Oilwell Basin"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/b/be/MHRise-Rathian_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathian.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/3/32/MHW-Rathian_Icon.png",
       "description": "Known by the alternative name of 'Queen of the Land.' With its outstanding leg strength, it hurtles across the land, subduing prey with its venom-laden tail. It has occasionally been spotted hunting together with its male counterpart, Rathalos.",
       "drops": ["unknown"]
@@ -216,7 +216,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Windward Plains"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/5/56/MHWilds-Rey_Dau_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rey-dau.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b8/MHWilds-Rey_Dau_Icon.png",
       "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
       "drops": ["unknown"]
@@ -229,21 +229,34 @@
       "weaknesses": ["unknown"],
       "habitats": ["Oilwell Basin"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/f/f1/MHWilds-Rompopolo_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rompopolo.webp",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+        {
+      "id": 19,
+      "name": "Uth Duna",
+      "elements": ["water"],
+      "ailments": ["waterblight"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Scarlet Forest"],
+      "size": "Large",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/uth-duna.webp",
       "icon": "unknown",
       "description": "unknown",
       "drops": ["unknown"]
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
       "weaknesses": ["water", "ice"],
       "habitats": ["Scarlet Forest"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/7/7e/YianKutKuWilds.png",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/2/27/MHST2-Yian_Kut-Ku_Icon.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/uth-duna.webp",
+      "icon": "unknown",
       "description": "These monsters boast ample beaks and fan-like ears that splay open when angered. A cowardly species, they have dexterous, nimble legs perfect for running away. However, they show little mercy to smaller creatures that encroach on their territory.",
       "drops": ["unknown"]
     }
