@@ -78,6 +78,19 @@
       "description": "Rugged, territorial fanged beasts that exhibit an aggressive disposition and inhabit a large range. Sometimes observed in large packs.",
       "drops": ["unknown"]
     },
+   {
+      "id": 7,
+      "name": "Gore Magala",
+      "elements": ["unknown"],
+      "ailments": ["unknown"],
+      "weaknesses": ["unknown"],
+      "habitats": ["unknown"],
+      "size": "Large",
+      "img": "unknown",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
     {
       "id": 7,
       "name": "Gravios",
