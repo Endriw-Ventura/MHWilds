@@ -151,7 +151,7 @@
       "weaknesses": ["fire", "thunder"],
       "habitats": ["Iceshard Cliffs"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/0/09/MHWilds-Nerscylla_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nerscylla.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/1/1c/MHST2-Nerscylla_Icon.png",
       "description": "Temnocerans that build nests of sticky webbing. They rend prey with their pincer-like jaws after weakening them with abnormal statuses and ensnaring them in web. They will sometimes adorn themselves with the skin of morsels they have not completely finished eating.",
       "drops": ["unknown"]
