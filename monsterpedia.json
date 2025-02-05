@@ -117,8 +117,21 @@
       "description": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation.",
       "drops": ["unknown"]
     },
-    {
+     {
       "id": 10,
+      "name": "Hirabami",
+      "elements": ["ice"],
+      "ailments": ["iceblight"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Iceshard Cliffs"],
+      "size": "Large",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/e/ec/MHWilds-Hirabami_Render_001.png",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 11,
       "name": "Lala Barina",
       "elements": ["unknown"],
       "ailments": ["paralysis"],
@@ -131,7 +144,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Nerscylla",
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "webbed"],
@@ -144,7 +157,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Nu Udra",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -157,7 +170,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Quematrice",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -170,7 +183,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
@@ -183,7 +196,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Rathian",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison"],
@@ -196,7 +209,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Rey Dau",
       "elements": ["thunder"],
       "ailments": ["thunderblight"],
@@ -209,7 +222,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Rompopolo",
       "elements": ["unknown"],
       "ailments": ["poison"],
@@ -222,7 +235,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
