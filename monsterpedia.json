@@ -47,7 +47,7 @@
       "weaknesses": ["unknown"],
       "habitats": ["Windward Plains"],
       "size": "Large",
-      "img": "https://static.wikia.nocookie.net/monsterhunter/images/2/23/MHWilds-Chatacabra_Render_001.png",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/chatacabra.webp",
       "icon": "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/MHWilds-Chatacabra_Icon.png",
       "description": "Amphibians that affix rocks to their forelimbs to power up attacks. Break this 'armor' to create an attack opening. The tongue is most vulnerable.",
       "drops": ["unknown"]
