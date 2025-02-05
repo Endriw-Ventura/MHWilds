@@ -82,13 +82,13 @@
       "id": 7,
       "name": "Gore Magala",
       "elements": ["unknown"],
-      "ailments": ["unknown"],
-      "weaknesses": ["unknown"],
+      "ailments": ["frenzy"],
+      "weaknesses": ["fire", "thunder", "dragon"],
       "habitats": ["unknown"],
       "size": "Large",
-      "img": "unknown",
-      "icon": "unknown",
-      "description": "unknown",
+      "img": "https://static.wikia.nocookie.net/monsterhunter/images/1/19/MHWilds-Gore_Magala_Render_001.png",
+      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/2/21/MHRS-Gore_Magala_Icon.png",
+      "description": "Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry.",
       "drops": ["unknown"]
     },
     {
