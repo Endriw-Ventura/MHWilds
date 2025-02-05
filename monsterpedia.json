@@ -35,7 +35,7 @@
       "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/balahara.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b2/MHWilds-Balahara_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/balahara.webp",
       "description": "Desert-dwelling leviathans that use their supple, serpentine bodies to create quicksand traps. Weak against sonic bombs when they're submerged.",
       "drops": ["unknown"]
     },
@@ -48,7 +48,7 @@
       "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/chatacabra.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/MHWilds-Chatacabra_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/chatacabra.webp",
       "description": "Amphibians that affix rocks to their forelimbs to power up attacks. Break this 'armor' to create an attack opening. The tongue is most vulnerable.",
       "drops": ["unknown"]
     },
@@ -61,7 +61,7 @@
       "habitats": ["Scarlet Forest"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/congalala.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/8e/MHO-Congalala_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/congalala.webp",
       "description": "Large, pink-furred Fanged Beasts with an incredible appetite - especially for mushrooms, which the monster often carries around with them. They let rip the most almighty farts, the stench of which overwhelms opponents.",
       "drops": ["unknown"]
     },
@@ -74,7 +74,7 @@
       "habitats": ["Windward Plains", "Scarlet Forest"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/doshaguma.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/85/MHWilds-Doshaguma_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/doshaguma.webp",
       "description": "Rugged, territorial fanged beasts that exhibit an aggressive disposition and inhabit a large range. Sometimes observed in large packs.",
       "drops": ["unknown"]
     },
@@ -87,7 +87,7 @@
       "habitats": ["unknown"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gore-magala.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/2/21/MHRS-Gore_Magala_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gore-magala.webp",
       "description": "Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry.",
       "drops": ["unknown"]
     },
@@ -100,7 +100,7 @@
       "habitats": ["Oilwell Basin"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gravios.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/MHO-Gravios_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gravios.webp",
       "description": "Flying Wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas. The carapace-like bone they have developed on their bodies for protection are incredibly hard.",
       "drops": ["unknown"]
     },
@@ -113,7 +113,7 @@
       "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gypceros.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/MHO-Gypceros_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gypceros.webp",
       "description": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation.",
       "drops": ["unknown"]
     },
@@ -152,7 +152,7 @@
       "habitats": ["Iceshard Cliffs"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nerscylla.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/1/1c/MHST2-Nerscylla_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/nerscylla.webp",
       "description": "Temnocerans that build nests of sticky webbing. They rend prey with their pincer-like jaws after weakening them with abnormal statuses and ensnaring them in web. They will sometimes adorn themselves with the skin of morsels they have not completely finished eating.",
       "drops": ["unknown"]
     },
@@ -191,7 +191,7 @@
       "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathalos.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/8/8c/MHW-Rathalos_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rathalos.webp",
       "description": "Terrible wyverns called 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
       "drops": ["unknown"]
     },
@@ -204,7 +204,7 @@
       "habitats": ["Windward Plains", "Scarlet Forest", "Oilwell Basin"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathian.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/3/32/MHW-Rathian_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rathian.webp",
       "description": "Known by the alternative name of 'Queen of the Land.' With its outstanding leg strength, it hurtles across the land, subduing prey with its venom-laden tail. It has occasionally been spotted hunting together with its male counterpart, Rathalos.",
       "drops": ["unknown"]
     },
@@ -217,7 +217,7 @@
       "habitats": ["Windward Plains"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rey-dau.webp",
-      "icon": "https://static.wikia.nocookie.net/monsterhunter/images/b/b8/MHWilds-Rey_Dau_Icon.png",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rey-dau.webp",
       "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
       "drops": ["unknown"]
     },
@@ -256,7 +256,7 @@
       "habitats": ["Scarlet Forest"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/yian-kut-ku.webp",
-      "icon": "unknown",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/yian-kut-ku.webp",
       "description": "These monsters boast ample beaks and fan-like ears that splay open when angered. A cowardly species, they have dexterous, nimble legs perfect for running away. However, they show little mercy to smaller creatures that encroach on their territory.",
       "drops": ["unknown"]
     }
