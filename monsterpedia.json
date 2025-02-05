@@ -92,7 +92,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Gravios",
       "elements": ["fire"],
       "ailments": ["fireblight", "sleep", "poison"],
@@ -105,7 +105,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Gypceros",
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "stun"],
@@ -118,7 +118,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Lala Barina",
       "elements": ["unknown"],
       "ailments": ["paralysis"],
@@ -131,7 +131,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Nu Udra",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -144,7 +144,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Quematrice",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -157,7 +157,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
@@ -170,7 +170,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Rathian",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison"],
@@ -183,7 +183,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Rey Dau",
       "elements": ["thunder"],
       "ailments": ["thunderblight"],
@@ -196,7 +196,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Rompopolo",
       "elements": ["unknown"],
       "ailments": ["poison"],
@@ -209,7 +209,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
