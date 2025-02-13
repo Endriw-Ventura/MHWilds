@@ -143,8 +143,21 @@
       "description": "unknown",
       "drops": ["unknown"]
     },
-    {
+     {
       "id": 12,
+      "name": "Mizutsune",
+      "elements": ["water"],
+      "ailments": ["waterblight", "bubble"],
+      "weaknesses": ["thunder", "dragon"],
+      "habitats": ["Scarlet Forest"],
+      "size": "Large",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/mizutsune.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/mizutsune.webp",
+      "description": "A specially evolved Leviathan with a sleek, lithe body. Mizutsune can secrete a peculiar fluid that covers its foes in immobilizing bubbles. Once its foe's movement is impaired, it closes in with spry, dance-like movements.",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 13,
       "name": "Nerscylla",
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "webbed"],
@@ -157,7 +170,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Nu Udra",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -170,7 +183,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Quematrice",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -183,7 +196,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
@@ -196,7 +209,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Rathian",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison"],
@@ -209,7 +222,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Rey Dau",
       "elements": ["thunder"],
       "ailments": ["thunderblight"],
@@ -222,7 +235,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Rompopolo",
       "elements": ["unknown"],
       "ailments": ["poison"],
@@ -235,7 +248,7 @@
       "drops": ["unknown"]
     },
         {
-      "id": 19,
+      "id": 20,
       "name": "Uth Duna",
       "elements": ["water"],
       "ailments": ["waterblight"],
@@ -248,7 +261,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
