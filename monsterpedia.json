@@ -132,6 +132,19 @@
     },
     {
       "id": 11,
+      "name": "Jin Dahaad",
+      "elements": ["ice"],
+      "ailments": ["iceblight"],
+      "weaknesses": ["unknown"],
+      "habitats": ["Iceshard Cliffs"],
+      "size": "Large",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/jin_dahaad.webp",
+      "icon": "unknown",
+      "description": "unknown",
+      "drops": ["unknown"]
+    },
+    {
+      "id": 12,
       "name": "Lala Barina",
       "elements": ["unknown"],
       "ailments": ["paralysis"],
@@ -144,7 +157,7 @@
       "drops": ["unknown"]
     },
      {
-      "id": 12,
+      "id": 13,
       "name": "Mizutsune",
       "elements": ["water"],
       "ailments": ["waterblight", "bubble"],
@@ -157,7 +170,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Nerscylla",
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "webbed"],
@@ -170,7 +183,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Nu Udra",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -183,7 +196,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Quematrice",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -196,7 +209,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
@@ -209,7 +222,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Rathian",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison"],
@@ -222,7 +235,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Rey Dau",
       "elements": ["thunder"],
       "ailments": ["thunderblight"],
@@ -235,7 +248,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Rompopolo",
       "elements": ["unknown"],
       "ailments": ["poison"],
@@ -248,7 +261,7 @@
       "drops": ["unknown"]
     },
         {
-      "id": 20,
+      "id": 21,
       "name": "Uth Duna",
       "elements": ["water"],
       "ailments": ["waterblight"],
@@ -261,7 +274,7 @@
       "drops": ["unknown"]
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
