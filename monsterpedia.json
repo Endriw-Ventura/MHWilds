@@ -47,7 +47,7 @@
       "weaknesses": ["fire"],
       "habitats": ["Iceshard Cliffs"],
       "size": "Large",
-      "img": "unknown",
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/blangonga.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/blangonga.webp",
       "description": "Leader of a Blango pack, it is twice as large and recognized by its giant fangs, whiskers, and head-crown. It sends its pack to attack any trespassers. Its jumping power allows it great mobility.",
       "drops": ["unknown"]
