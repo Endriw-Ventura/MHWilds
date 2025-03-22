@@ -7,8 +7,8 @@
       "ailments": ["fireblight", "blastblight"],
       "weaknesses": ["water", "ice"],
       "habitats": ["Oilwell Basin", "Ruins of Wyveria"],
-      "species": ["Fanged Beast"],
       "size": "Large",
+      "species": ["Fanged Beast"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/ajakaran.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/ajarakan.jpg",
       "description": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions. Presumably due to the friction of the metal, they can reach high enough temperatures to melt even the ground or bullets. They can also use their strong limbs to grip onto the ceiling and move around freely, so a hunter must watch out from every angle, including above.",
@@ -130,7 +130,7 @@
       "weaknesses": ["fire"],
       "habitats": ["Iceshard Cliffs"],
       "size": "Large",
-      "species":["Fanged Beast"],
+      "species": ["Fanged Beast"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/blangonga.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/blangonga.webp",
       "description": "Large, white fanged beasts that rule over other Blango, attacking intruders as a pack. Its muscularity and mobility allows it to strike swiftly, even on fresh snow, and pounce from a long distance—so hunters with long-range weapons still need to stay on guard. Large tusks are the mark of a powerful leader.",
@@ -161,7 +161,7 @@
       "weaknesses": ["ice", "thunder"],
       "habitats": ["Windward Plains"],
       "size": "Large",
-      "species":["Amphibian"]
+      "species": ["Amphibian"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/chatacabra.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/chatacabra.webp",
       "description": "Amphibians that affix rocks to their forelimbs to power up attacks. Break this 'armor' to create an attack opening. The tongue is most vulnerable.",
@@ -234,7 +234,7 @@
       "weaknesses": ["fire", "thunder"],
       "habitats": ["Windward Plains", "Scarlet Forest", "Ruins of Wyveria"],
       "size": "Large",
-      "species": ["Fanged Beast"]
+      "species": ["Fanged Beast"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/doshaguma.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/doshaguma.webp",
       "description": "Rugged, territorial fanged beasts that exhibit an aggressive disposition and inhabit a large range. Sometimes observed in large packs.",
@@ -297,24 +297,29 @@
       "elements": ["fire"],
       "ailments": ["fireblight", "sleep", "poison"],
       "weaknesses": ["water"],
-      "habitats": ["Oilwell Basin"],
+      "habitats": ["Oilwell Basin", "Ruins of Wyveria"],
       "size": "Large",
+      "species": ["Flying Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gravios.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gravios.webp",
-      "description": "Flying Wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas. The carapace-like bone they have developed on their bodies for protection are incredibly hard.",
+      "description": "Large wyverns found in Oilwell Basin. They have a developed physique, powerful heat rays, and a host of gases they can emit from their body. Their bony carapaces are famously tough but expose a suprisingly brittle interior once destroyed.",
        "drops": [
         {
           "lowrank":[]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
+                        "Coma Sac (13%)",
+                        "Inferno Sac (13%)",
+                        "Gravios Certificate S (8%)",
+                        "Gravios Medulla (8%)",
+                        "Gravios Wing (20%)",
+                        "Gravios Pleura+ (15%)",
+                        "Gravios Carapace (20%)",
+                        "Firecell Stone (40%)",
+                        "Gravios Skull (13% Body)",
+                        "Gravios Medulla (11% Body)",
+                        "Wyvern Gem (3%)"
                     ]
         },
         {
@@ -328,8 +333,9 @@
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "stun"],
       "weaknesses": ["fire*", "*on tail*"],
-      "habitats": ["Windward Plains"],
+      "habitats": ["Windward Plains", "Oilwell Basin", "Iceshard Cliffs"],
       "size": "Large",
+      "species": ["Bird Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gypceros.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gypceros.webp",
       "description": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation.",
@@ -339,13 +345,15 @@
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
+                   "Rubbery Hide+ (22%)",
+                   "Gypceros Head (10%)",
+                   "Gypceros Wing (22%)",
+                   "Gypceros Tail (15%)",
+                   "Toxin Sac (20%)",
+                   "Gypceros Certificate S (3%)",
+                   "Bird Wyvern Gem (3%)",
+                   "Novacrystal (12%)",
+                   "Dash Extract (43%)",
                     ]
         },
         {
