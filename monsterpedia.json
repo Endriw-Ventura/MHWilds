@@ -158,13 +158,36 @@
       "name": "Chatacabra",
       "elements": ["unknown"],
       "ailments": ["unknown"],
-      "weaknesses": ["unknown"],
+      "weaknesses": ["ice", "thunder"],
       "habitats": ["Windward Plains"],
       "size": "Large",
+      "species":["Amphibian"]
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/chatacabra.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/chatacabra.webp",
       "description": "Amphibians that affix rocks to their forelimbs to power up attacks. Break this 'armor' to create an attack opening. The tongue is most vulnerable.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[
+                       "Chatacabra Shell (15%)",
+                       "Chatacabra Scale (27%)",
+                       "Chatacabra Hide (27%)",
+                       "Chatacabra Jaw (23%)",
+                       "Chatacabra Certificate (8%)"
+                    ]
+        },
+        {
+          "highrank":[
+                    "Chatacabra Carapace (15%)",
+                    "Chatacabra Scale+ (27%)",
+                    "Chatacabra Hide+ (27%)",
+                    "Chatacabra Jaw+ (23%)",
+                    "Chatacabra Certificate S (8%)",
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 6,
@@ -172,12 +195,36 @@
       "elements": ["fire*", "*Specific Food Eaten*"],
       "ailments": ["fireblight*", "blastblight*", "sleep*", "poison*", "paralysis*", "soiled", "*Specific Food Eaten*"],
       "weaknesses": ["fire"],
-      "habitats": ["Scarlet Forest"],
+      "habitats": ["Scarlet Forest", "Ruins of Wyveria"],
       "size": "Large",
+      "species": ["Fanged Beast"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/congalala.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/congalala.webp",
       "description": "Large, pink-furred Fanged Beasts with an incredible appetite - especially for mushrooms, which the monster often carries around with them. They let rip the most almighty farts, the stench of which overwhelms opponents.",
-      "drops": ["unknown"]
+        "drops": [
+        {
+          "lowrank":[
+                       "Congalala Pelt (27%)",
+                       "Congalala Claw (23%)",
+                       "Vibrant Pelt (15%)",
+                       "Congalala Fang (27%)",
+                       "Congalala Certificate (8%)",
+                    ]
+        },
+        {
+          "highrank":[
+                      "Congalala Pelt+ (27%)",
+                      "Congalala Claw+ (20%)",
+                      "Vibrant Pelt+ (15%)",
+                      "Congalala Fang+ (27%)",
+                      "Congalala Certificate S (8%)",
+                      "Beast Gem (3%)",
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 7,
