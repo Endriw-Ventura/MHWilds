@@ -86,7 +86,7 @@
       "name": "Balahara",
       "elements": ["water"],
       "ailments": ["waterblight"],
-      "weaknesses": ["unknown"],
+      "weaknesses": ["thunder"],
       "habitats": ["Windward Plains"],
       "size": "Large",
       "species": ["Leviathan"],
