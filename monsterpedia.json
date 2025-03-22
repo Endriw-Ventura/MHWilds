@@ -439,25 +439,34 @@
       "name": "Lala Barina",
       "elements": ["unknown"],
       "ailments": ["paralysis"],
-      "weaknesses": ["unknown"],
-      "habitats": ["Scarlet Forest"],
+      "weaknesses": ["fire"],
+      "habitats": ["Scarlet Forest", "Ruins of Wyveria"],
       "size": "Large",
+      "species": ["Temnoceran"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/lala-barina.webp",
       "icon": "unknown",
-      "description": "unknown",
+      "description": "Temnocerans native to the Scarlet Forest with distinctive, pirouette-like movements. Their fluids contain a neuroplegic agent which they mix with water to produce red, petal-like bristles on their abdomens. When agitated, Lala Barina open these bristles like a deadly, blossoming flower and release them as florets that paralyze whatever they come into contact with.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Lala Barina Claw (11%)",
+            "Lala Barina Floret (20%)",
+            "Lala Barina Stinger (8%)",
+            "Lala Barina Shell (20%)",
+            "Lala Barina Mucus (15%)",
+            "Monster Fluid (18%)",
+            "Lala Barina Certificate (8%)"
+          ]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
+                    "Lala Barina Claw+ (11%)",
+                    "Lala Barina Floret+ (20%)",
+                    "Lala Barina Stinger+ (8%)",
+                    "Lala Barina Carapace (20%)",
+                    "Lala Barina Mucus+ (15%)",
+                    "Monster Broth (18%)",
+                    "Lala Barina Certificate S (8%)"
                     ]
         },
         {
@@ -473,6 +482,7 @@
       "weaknesses": ["thunder", "dragon"],
       "habitats": ["Scarlet Forest"],
       "size": "Large",
+      "species": ["Leviathan"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/mizutsune.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/mizutsune.webp",
       "description": "A specially evolved Leviathan with a sleek, lithe body. Mizutsune can secrete a peculiar fluid that covers its foes in immobilizing bubbles. Once its foe's movement is impaired, it closes in with spry, dance-like movements.",
@@ -481,15 +491,7 @@
           "lowrank":[]
         },
         {
-          "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+          "highrank":[]
         },
         {
           "masterrank":[]
