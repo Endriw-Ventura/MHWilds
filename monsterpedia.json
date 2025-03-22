@@ -181,7 +181,7 @@
                     "Chatacabra Scale+ (27%)",
                     "Chatacabra Hide+ (27%)",
                     "Chatacabra Jaw+ (23%)",
-                    "Chatacabra Certificate S (8%)",
+                    "Chatacabra Certificate S (8%)"
                     ]
         },
         {
@@ -208,7 +208,7 @@
                        "Congalala Claw (23%)",
                        "Vibrant Pelt (15%)",
                        "Congalala Fang (27%)",
-                       "Congalala Certificate (8%)",
+                       "Congalala Certificate (8%)"
                     ]
         },
         {
@@ -218,7 +218,7 @@
                       "Vibrant Pelt+ (15%)",
                       "Congalala Fang+ (27%)",
                       "Congalala Certificate S (8%)",
-                      "Beast Gem (3%)",
+                      "Beast Gem (3%)"
                     ]
         },
         {
@@ -231,13 +231,33 @@
       "name": "Doshaguma",
       "elements": ["unknown"],
       "ailments": ["unknown"],
-      "weaknesses": ["unknown"],
-      "habitats": ["Windward Plains", "Scarlet Forest"],
+      "weaknesses": ["fire", "thunder"],
+      "habitats": ["Windward Plains", "Scarlet Forest", "Ruins of Wyveria"],
       "size": "Large",
+      "species": ["Fanged Beast"]
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/doshaguma.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/doshaguma.webp",
       "description": "Rugged, territorial fanged beasts that exhibit an aggressive disposition and inhabit a large range. Sometimes observed in large packs.",
-      "drops": ["unknown"]
+      "drops": [
+        {
+          "lowrank":[
+                     "Doshaguma Fur (27%)",
+                      "Doshaguma Claw (15%)",
+                      "Doshaguma Hide (27%)",
+                      "Doshaguma Fang (20%)",
+                      "Doshaguma Certificate (11%)"
+                    ]
+        },
+        {
+          "highrank":[
+                     "Doshaguma Hide+ (3%)",
+                     "Doshaguma Fur+ (2%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
    {
       "id": 8,
