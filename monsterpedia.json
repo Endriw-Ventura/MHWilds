@@ -502,7 +502,7 @@
       "id": 15,
       "name": "Nerscylla",
       "elements": ["unknown"],
-      "ailments": ["poison", "noxious poison", "webbed"],
+      "ailments": ["poison", "noxious poison", "webbed", "sleep"],
       "weaknesses": ["fire", "thunder"],
       "habitats": ["Iceshard Cliffs", "Oilwell Basin"],
       "size": "Large",
@@ -543,26 +543,36 @@
       "name": "Nu Udra",
       "elements": ["fire"],
       "ailments": ["fireblight"],
-      "weaknesses": ["unknown"],
+      "weaknesses": ["water"],
       "habitats": ["Oilwell Basin"],
       "size": "Large",
+      "species": ["Cephalopod"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nu-udra.webp",
       "icon": "unknown",
       "description": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. A vision of hell, it attacks with tentacles and ignited oilsilt.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Nu Udra Hide (25%)",
+            "Nu Udra Spike (15%)",
+            "Nu Udra Horn (11%)",
+            "Nu Udra Certificate (8%)",
+            "Nu Udra Cerebrospinal Fluid (5%)",
+            "Nu Udra Oilmucus (25%)",
+            "Nu Udra Tentacle (11%)"
+          ]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Nu Udra Cerebrospinal Fluid (7%)",
+            "Nu Udra Certificate S (8%)",
+            "Nu Udra Flamegem (3%)",
+            "Nu Udra Tentacle+ (11%)",
+            "Nu Udra Oilmucus+ (22%)",
+            "Nu Udra Spike+ (16%)",
+            "Nu Udra Horn+ (11%)",
+            "Nu Udra Hide+ (22%)"
+          ]
         },
         {
           "masterrank":[]
