@@ -302,7 +302,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gravios.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gravios.webp",
       "description": "Flying Wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas. The carapace-like bone they have developed on their bodies for protection are incredibly hard.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 10,
@@ -315,7 +333,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gypceros.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gypceros.webp",
       "description": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
      {
       "id": 11,
@@ -328,7 +364,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/hirabami.webp",
       "icon": "unknown",
       "description": "unknown",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 12,
@@ -341,7 +395,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/jin_dahaad.webp",
       "icon": "unknown",
       "description": "unknown",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 13,
@@ -354,7 +426,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/lala-barina.webp",
       "icon": "unknown",
       "description": "unknown",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
      {
       "id": 14,
@@ -367,7 +457,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/mizutsune.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/mizutsune.webp",
       "description": "A specially evolved Leviathan with a sleek, lithe body. Mizutsune can secrete a peculiar fluid that covers its foes in immobilizing bubbles. Once its foe's movement is impaired, it closes in with spry, dance-like movements.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 15,
@@ -380,7 +488,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nerscylla.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/nerscylla.webp",
       "description": "Temnocerans that build nests of sticky webbing. They rend prey with their pincer-like jaws after weakening them with abnormal statuses and ensnaring them in web. They will sometimes adorn themselves with the skin of morsels they have not completely finished eating.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 16,
@@ -393,7 +519,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nu-udra.webp",
       "icon": "unknown",
       "description": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. A vision of hell, it attacks with tentacles and ignited oilsilt.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 17,
@@ -406,7 +550,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/quematrice.webp",
       "icon": "unknown",
       "description": "unknown",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 18,
@@ -419,7 +581,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathalos.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rathalos.webp",
       "description": "Terrible wyverns called 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 19,
@@ -432,7 +612,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathian.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rathian.webp",
       "description": "Known by the alternative name of 'Queen of the Land.' With its outstanding leg strength, it hurtles across the land, subduing prey with its venom-laden tail. It has occasionally been spotted hunting together with its male counterpart, Rathalos.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 20,
@@ -445,7 +643,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rey-dau.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rey-dau.webp",
       "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 21,
@@ -458,7 +674,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rompopolo.webp",
       "icon": "unknown",
       "description": "unknown",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
         {
       "id": 22,
@@ -471,7 +705,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/uth-duna.webp",
       "icon": "unknown",
       "description": "unknown",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 23,
@@ -484,7 +736,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/yian-kut-ku.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/yian-kut-ku.webp",
       "description": "These monsters boast ample beaks and fan-like ears that splay open when angered. A cowardly species, they have dexterous, nimble legs perfect for running away. However, they show little mercy to smaller creatures that encroach on their territory.",
-      "drops": ["unknown"]
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     }
   ]
 }
