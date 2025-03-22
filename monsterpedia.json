@@ -5,9 +5,9 @@
       "name": "Ajarakan",
       "elements": ["fire"],
       "ailments": ["fireblight", "blastblight"],
-      "species": ["Fanged Beast"]
       "weaknesses": ["water", "ice"],
       "habitats": ["Oilwell Basin", "Ruins of Wyveria"],
+      "species": ["Fanged Beast"],
       "size": "Large",
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/ajakaran.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/ajarakan.jpg",
