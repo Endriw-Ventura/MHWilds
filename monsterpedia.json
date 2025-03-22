@@ -584,26 +584,34 @@
       "name": "Quematrice",
       "elements": ["fire"],
       "ailments": ["fireblight"],
-      "weaknesses": ["unknown"],
-      "habitats": ["Windward Plains"],
+      "weaknesses": ["water"],
+      "habitats": ["Windward Plains", "Ruins of Wyveria"],
       "size": "Large",
+      "species": ["Brute Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/quematrice.webp",
       "icon": "unknown",
-      "description": "unknown",
+      "description": "Brute wyverns with disproportionately long tails. They spread a flammable substance which vaporizes quickly, then ignite it by dragging their tails along the ground. By nature, Quematrice rarely hunt their own prey, and instead scavenge herbivore carrion left behind by other predators. This often leads to confrontations with other, smaller carnivores.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Quematrice Scale (25%)",
+            "Quematrice Hide (25%)",
+            "Quematrice Crest (14%)",
+            "Quematrice Tail (8%)",
+            "Quematrice Igniter (20%)",
+            "Quematrice Certificate (8%)"
+          ]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Quematrice Scale+ (25%)",
+            "Quematrice Hide+ (25%)",
+            "Quematrice Crest+ (11%)",
+            "Quematrice Tail (8%)",
+            "Quematrice Igniter+ (20%)",
+            "Quematrice Certificate S (8%)",
+            "Wyvern Gem (3%)"
+          ]
         },
         {
           "masterrank":[]
@@ -615,26 +623,28 @@
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
-      "weaknesses": ["water", "ice"],
-      "habitats": ["Windward Plains"],
+      "weaknesses": ["water", "ice", "thunder", "dragon"],
+      "habitats": ["Oilwell Basin", "Scarlet Forest", "Ruins of Wyveria"],
       "size": "Large",
+      "species": ["Flying Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathalos.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rathalos.webp",
-      "description": "Terrible wyverns called 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
+      "description": "Fearsome male wyverns known as the Kings of the Skies. Alongside the Rathian, they stake out a wide territory around their nests, and it is the male's role to watch from above. Armed with powerful poisonous claws and fiery breath, Rathalos use their aerial prowess to descend on invaders.",
        "drops": [
         {
           "lowrank":[]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Rathalos Wing (15%)",
+            "Rathalos Scale+ (20%)",
+            "Rathalos Carapace (20%)",
+            "Rathalos Tail (8%)",
+            "Inferno Sac (18%)",
+            "Rathalos Certificate S (8%)",
+            "Rath Medulla (8%)",
+            "Rathalos Ruby (3%)"
+          ]
         },
         {
           "masterrank":[]
@@ -649,23 +659,25 @@
       "weaknesses": ["water", "ice"],
       "habitats": ["Windward Plains", "Scarlet Forest", "Oilwell Basin"],
       "size": "Large",
+      "species": ["Flying Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathian.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rathian.webp",
-      "description": "Known by the alternative name of 'Queen of the Land.' With its outstanding leg strength, it hurtles across the land, subduing prey with its venom-laden tail. It has occasionally been spotted hunting together with its male counterpart, Rathalos.",
+      "description": "Fire-breathing female wyverns, also known as the Queens of the Land. With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathians and Rathalos cooperate well.",
        "drops": [
         {
           "lowrank":[]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Rathian Webbing (15%)",
+            "Rathian Scale+ (20%)",
+            "Rathian Carapace (20%)",
+            "Rathian Spike+ (8%)",
+            "Inferno Sac (18%)",
+            "Rathian Ruby (3%)",
+            "Rathian Certificate S (8%)",
+            "Rath Medulla (8%)"
+          ]
         },
         {
           "masterrank":[]
@@ -677,26 +689,36 @@
       "name": "Rey Dau",
       "elements": ["thunder"],
       "ailments": ["thunderblight"],
-      "weaknesses": ["unknown"],
+      "weaknesses": ["water", "ice"],
       "habitats": ["Windward Plains"],
       "size": "Large",
+      "species": ["Flying Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rey-dau.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rey-dau.webp",
       "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Rey Dau Tail (11%)",
+            "Rey Dau Plate (5%)",
+            "Rey Dau Certificate (8%)",
+            "Rey Dau Scale (25%)",
+            "Rey Dau Shell (23%)",
+            "Rey Dau Thunderhorn (11%)",
+            "Rey Dau Wingtalon (15%)"
+          ]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Rey Dau Tail (11%)",
+            "Rey Dau Carapace (22%)",
+            "Rey Dau Plate (7%)",
+            "Rey Dau Scale+ (22%)",
+            "Rey Dau Bolthorn (11%)",
+            "Rey Dau Boltgem (3%)",
+            "Rey Dau Certificate S (8%)",
+            "Rey Dau Fulgurtalon (16%)"
+          ]
         },
         {
           "masterrank":[]
@@ -708,26 +730,34 @@
       "name": "Rompopolo",
       "elements": ["unknown"],
       "ailments": ["poison"],
-      "weaknesses": ["unknown"],
+      "weaknesses": ["water"],
       "habitats": ["Oilwell Basin"],
-      "size": "Large",
+      "size": "Large",      
+      "species": ["Brute Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rompopolo.webp",
       "icon": "unknown",
-      "description": "unknown",
+      "description": "Dappled brute wyverns that prowl Oilwell Basin. They use their tails to inject gas into the ground and detonate it, then feed on the small creatures that are unearthed. The toxic gas they spray from their tongues serve to weaken prey, which they then finish off with the blasts. Rompopolo are extremely territorial and will readily engage their own kind.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Rompopolo Hide (25%)",
+            "Rompopolo Claw (15%)",
+            "Rompopolo Beak (22%)",
+            "Spotted Poison Hide (10%)",
+            "Poison Sac (20%)",
+            "Rompopolo Certificate (8%)"
+          ]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Rompopolo Hide+ (22%)",
+            "Rompopolo Claw+ (15%)",
+            "Spotted Poison Hide+ (10%)",
+            "Toxin Sac (20%)",
+            "Rompopolo Beak+ (22%)",
+            "Rompopolo Certificate S (8%)",
+            "Wyvern Gem (3%)"
+          ]
         },
         {
           "masterrank":[]
@@ -739,26 +769,38 @@
       "name": "Uth Duna",
       "elements": ["water"],
       "ailments": ["waterblight"],
-      "weaknesses": ["unknown"],
+      "weaknesses": ["thunder"],
       "habitats": ["Scarlet Forest"],
       "size": "Large",
+      "species": ["Leviathan"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/uth-duna.webp",
       "icon": "unknown",
-      "description": "unknown",
+      "description": "The leviathan that reigns supreme over the Scarlet Forest's ecosystem. It has adapted to water-rich environments and is sighted most often during the Downpour. Uth Duna's secretions when combined with water form a protective veil that not only absorbs hostile blows but also adds weight, which it slams down with enough force to sweep away surrounding threats in the resulting wave.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Aqua Sac (16%)",
+            "Uth Duna Certificate (8%)",
+            "Uth Duna Scale (20%)",
+            "Uth Duna Plate (5%)",
+            "Uth Duna Cilia (15%)",
+            "Uth Duna Tentacle (8%)",
+            "Uth Duna Claw (8%)",
+            "Uth Duna Hide (20%)"
+          ]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Torrent Sac (16%)",
+            "Uth Duna Plate (7%)",
+            "Uth Duna Certificate S (7%)",
+            "Uth Duna Watergem (3%)",
+            "Uth Duna Claw+ (8%)",
+            "Uth Duna Tentacle+ (8%)",
+            "Uth Duna Cilia+ (14%)",
+            "Uth Duna Hide+ (18%)",
+            "Uth Duna Scale+ (18%)"
+          ]
         },
         {
           "masterrank":[]
@@ -771,8 +813,9 @@
       "elements": ["fire"],
       "ailments": ["fireblight"],
       "weaknesses": ["water", "ice"],
-      "habitats": ["Scarlet Forest"],
+      "habitats": ["Scarlet Forest", "Iceshard Cliffs"],
       "size": "Large",
+      "species": ["Bird Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/yian-kut-ku.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/yian-kut-ku.webp",
       "description": "These monsters boast ample beaks and fan-like ears that splay open when angered. A cowardly species, they have dexterous, nimble legs perfect for running away. However, they show little mercy to smaller creatures that encroach on their territory.",
@@ -782,14 +825,63 @@
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Kut-Ku Scale+ (20%)",
+            "Kut-Ku Carapace (20%)",
+            "Kut-Ku Ear (8%)",
+            "Kut-Ku Wing (15%)",
+            "Inferno Sac (18%)",
+            "Yian Kut-Ku Certificate S (8%)",
+            "Giant Beak (8%)",
+            "Bird Wyvern Gem (3%)"
+          ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Xu Wu",
+      "elements": ["unknown"],
+      "ailments": ["unknown"],
+      "weaknesses": ["ice"],
+      "habitats": ["Ruins of Wyveria"],
+      "size": "Large",
+      "species": ["Cephalopod"],
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/xu-wu.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/xu-wu.webp",
+      "description": "Cephalopod predators whose prey includes Guardian monsters. The mucus secreted from their tentacles hardens quickly into sharp edges that resemble blades or spears, which is why some call Xu Wu the Piercing Assassin. The sizable mouth hidden on their underside allows them to devour even rather large prey.",
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Yian Kut-Ku",
+      "elements": ["fire"],
+      "ailments": ["fireblight"],
+      "weaknesses": ["water", "ice"],
+      "habitats": ["Scarlet Forest", "Iceshard Cliffs"],
+      "size": "Large",
+      "species": ["Bird Wyvern"],
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/yian-kut-ku.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/yian-kut-ku.webp",
+      "description": "These monsters boast ample beaks and fan-like ears that splay open when angered. A cowardly species, they have dexterous, nimble legs perfect for running away. However, they show little mercy to smaller creatures that encroach on their territory.",
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[]
         },
         {
           "masterrank":[]
