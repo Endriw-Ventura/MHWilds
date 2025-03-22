@@ -353,7 +353,7 @@
                    "Gypceros Certificate S (3%)",
                    "Bird Wyvern Gem (3%)",
                    "Novacrystal (12%)",
-                   "Dash Extract (43%)",
+                   "Dash Extract (43%)"
                     ]
         },
         {
@@ -366,25 +366,33 @@
       "name": "Hirabami",
       "elements": ["ice"],
       "ailments": ["iceblight"],
-      "weaknesses": ["unknown"],
+      "weaknesses": ["fire", "thunder"],
       "habitats": ["Iceshard Cliffs"],
       "size": "Large",
+      "species": ["Leviathan"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/hirabami.webp",
       "icon": "unknown",
-      "description": "unknown",
+      "description": "Leviathans that inhabit the Iceshard Cliffs. They have sharp, pincer like tails and peculiar membranes on their necks that catch the wind and keep them aloft. Hirabami can sometimes be sighted nesting in groups along the cliffs, using their scales or foreclaws to cling to walls or ceilings while they sleep.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Hirabami Tail Claw (10%)",
+            "Hirabami Scale (22%)",
+            "Hirabami Hide (22%)",
+            "Hirabami Webbing (15%)",
+            "Frost Sac (23%)",
+            "Hirabami Certificate (8%)"
+          ]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
+                    "Hirabami Tail Claw+ (10%)",
+                    "Hirabami Scale+ (22%)",
+                    "Hirabami Hide+ (22%)",
+                    "Hirabami Webbing+ (15%)",
+                    "Freezer Sac (20%)",
+                    "Hirabami Certificate S (8%)",
+                    "Wyvern Gem (3%)"
                     ]
         },
         {
@@ -396,26 +404,29 @@
       "id": 12,
       "name": "Jin Dahaad",
       "elements": ["ice"],
-      "ailments": ["iceblight"],
+      "ailments": ["iceblight", "frostblight"],
       "weaknesses": ["unknown"],
-      "habitats": ["Iceshard Cliffs"],
-      "size": "Large",
+      "habitats": ["Iceshard Cliffs", "Ruins of Wyveria"],
+      "size": "Immense",
+      "species": ["Leviathan"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/jin_dahaad.webp",
       "icon": "unknown",
-      "description": "unknown",
+      "description": "A leviathan that sits at the peak of the Iceshard Cliff's ecosystem. It surrounds its massive form in cold temperatures via ridge-like cooling organs across its body; the frost its limbs produce doubles as a potent weapon and a way to travel along walls and floating rocks.",
        "drops": [
         {
           "lowrank":[]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
+                      "Freezer Sac (18%)",
+                      "Jin Dahaad Claw+ (15%)",
+                      "Jin Dahaad Horn (8%)",
+                      "Jin Dahaad Tail (8%)",
+                      "Jin Dahaad Icegem (3%)",
+                      "Jin Dahaad Scale+ (20%)",
+                      "Jin Dahaad Carapace (20%)",
+                      "Jin Dahaad Certificate S (8%)",
+                      "Jin Dahaad Iceplate (88%)"
                     ]
         },
         {
