@@ -548,7 +548,7 @@
       "size": "Large",
       "species": ["Cephalopod"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nu-udra.webp",
-      "icon": "unknown",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/nu-udra.webp",
       "description": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. A vision of hell, it attacks with tentacles and ignited oilsilt.",
        "drops": [
         {
