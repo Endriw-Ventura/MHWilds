@@ -44,15 +44,41 @@
     {
       "id": 2,
       "name": "Arkveld",
-      "elements": ["unknown"],
-      "ailments": ["poison"],
-      "weaknesses": ["unknown"],
-      "habitats": ["unknown"],
+      "elements": ["dragon"],
+      "ailments": ["dragonblight"],
+      "weaknesses": ["dragon"],
+      "habitats": [
+                  "Windward Plains",
+                  "Scarlet Forest",
+                  "Oilwell Basin",
+                  "Iceshard Cliffs",
+                  "Ruins of Wyveria"
+                  ],
       "size": "Large",
+      "species":["Flying Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/arkveld.webp",
       "icon": "unknown",
-      "description": "unknown",
-      "drops": ["unknown"]
+      "description": "A flying wyvern that was considered extinct according to documents left behind by the Guild. Their wings have a unique, chain-like blade that can extend and retract freely to reap their prey. They feed on elemental energy absorbed through these chainblades, and are able to convert the energy to unleash dragon element attacks.",
+     "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                     "Monster Hardbone (18%)",
+                      "Arkveld Certificate S (8%)",
+                      "Arkveld Scale+ (20%)",
+                      "Arkveld Armorplate (20%)",
+                      "White Arkveld Pelt (15%)",
+                      "Arkveld Horn+ (8%)",
+                      "Arkveld Tail (8%)",
+                      "Arkveld Gem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 3,
