@@ -885,18 +885,24 @@
     {
       "id": 25,
       "name": "Zoh Shia",
-      "elements": [""],
-      "ailments": [""],
-      "weaknesses": [""],
-      "habitats": [""],
+      "elements": ["fire", "thunder"],
+      "ailments": ["fireblight", "thunderblight"],
+      "weaknesses": ["dragon"],
+      "habitats": ["Ruins of Wyveria"],
       "size": "Immense",
-      "species": [""],
+      "species": ["Construct"],
       "img": "",
-      "icon": "",
-      "description": "",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/zoh-shia.webp",
+      "description": "A massive Guardian that has been feeding off the Dragontorch's energy. Its body is encased in crystallized Wyvern Milk, allowing it to regenerate. Zoh Shia, like other Guardians, excels at energy attacks and can produce repeated explosions to crystallize the whole area. Beneath its white Guardian coat, its body pulses with dark recollection - which you may see, should it reveal its full power from the days of yore.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Nourishing Extract (30%)",
+            "Tough Guardian Bone (20%)",
+            "Guardian Blood (20%)",
+            "Guardian Scale (15%)",
+            "Guardian Pelt (15%)"
+          ]
         },
         {
           "highrank":[]
