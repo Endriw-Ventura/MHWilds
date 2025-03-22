@@ -328,7 +328,97 @@
       ]
     },
     {
-      "id": 10,
+    "id": 10,
+    "name": "Guardian Arkveld",
+    "elements": [""],
+    "ailments": [""],
+    "weaknesses": [""],
+    "habitats": [""],
+    "size": "Large",
+    "species": [""],
+    "img": "",
+    "icon": "",
+    "description": "",
+    "drops": {
+      "lowrank": [],
+      "highrank": [],
+      "masterrank": []
+    }
+  },
+  {
+    "id": 11,
+    "name": "Guardian Doshaguma",
+    "elements": [""],
+    "ailments": [""],
+    "weaknesses": [""],
+    "habitats": [""],
+    "size": "Large",
+    "species": [""],
+    "img": "",
+    "icon": "",
+    "description": "",
+    "drops": {
+      "lowrank": [],
+      "highrank": [],
+      "masterrank": []
+    }
+  },
+  {
+    "id": 12,
+    "name": "Guardian Ebony Odogaron",
+    "elements": [""],
+    "ailments": [""],
+    "weaknesses": [""],
+    "habitats": [""],
+    "size": "Large",
+    "species": [""],
+    "img": "",
+    "icon": "",
+    "description": "",
+    "drops": {
+      "lowrank": [],
+      "highrank": [],
+      "masterrank": []
+    }
+  },
+  {
+    "id": 13,
+    "name": "Guardian Fulgur Anjanath",
+    "elements": [""],
+    "ailments": [""],
+    "weaknesses": [""],
+    "habitats": [""],
+    "size": "Large",
+    "species": [""],
+    "img": "",
+    "icon": "",
+    "description": "",
+    "drops": {
+      "lowrank": [],
+      "highrank": [],
+      "masterrank": []
+    }
+  },
+  {
+    "id": 14,
+    "name": "Guardian Rathalos",
+    "elements": [""],
+    "ailments": [""],
+    "weaknesses": [""],
+    "habitats": [""],
+    "size": "Large",
+    "species": [""],
+    "img": "",
+    "icon": "",
+    "description": "",
+    "drops": {
+      "lowrank": [],
+      "highrank": [],
+      "masterrank": []
+    }
+  },
+    {
+      "id": 15,
       "name": "Gypceros",
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "stun"],
@@ -362,7 +452,7 @@
       ]
     },
      {
-      "id": 11,
+      "id": 16,
       "name": "Hirabami",
       "elements": ["ice"],
       "ailments": ["iceblight"],
@@ -401,7 +491,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 17,
       "name": "Jin Dahaad",
       "elements": ["ice"],
       "ailments": ["iceblight", "frostblight"],
@@ -435,7 +525,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 18,
       "name": "Lala Barina",
       "elements": ["unknown"],
       "ailments": ["paralysis"],
@@ -475,7 +565,7 @@
       ]
     },
      {
-      "id": 14,
+      "id": 19,
       "name": "Mizutsune",
       "elements": ["water"],
       "ailments": ["waterblight", "bubble"],
@@ -499,7 +589,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 20,
       "name": "Nerscylla",
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "webbed", "sleep"],
@@ -539,7 +629,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 21,
       "name": "Nu Udra",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -580,7 +670,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 22,
       "name": "Quematrice",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -619,7 +709,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 23,
       "name": "Rathalos",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison", "stun"],
@@ -652,7 +742,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 24,
       "name": "Rathian",
       "elements": ["fire"],
       "ailments": ["fireblight", "poison"],
@@ -685,7 +775,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 25,
       "name": "Rey Dau",
       "elements": ["thunder"],
       "ailments": ["thunderblight"],
@@ -726,7 +816,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 26,
       "name": "Rompopolo",
       "elements": ["unknown"],
       "ailments": ["poison"],
@@ -765,7 +855,7 @@
       ]
     },
         {
-      "id": 22,
+      "id": 27,
       "name": "Uth Duna",
       "elements": ["water"],
       "ailments": ["waterblight"],
@@ -808,7 +898,7 @@
       ]
     },
      {
-      "id": 23,
+      "id": 28,
       "name": "Xu Wu",
       "elements": ["unknown"],
       "ailments": ["unknown"],
@@ -849,7 +939,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 29,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -883,7 +973,7 @@
     },
    
     {
-      "id": 25,
+      "id": 30,
       "name": "Zoh Shia",
       "elements": ["fire", "thunder"],
       "ailments": ["fireblight", "thunderblight"],
