@@ -89,10 +89,38 @@
       "weaknesses": ["unknown"],
       "habitats": ["Windward Plains"],
       "size": "Large",
+      "species": ["Leviathan"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/balahara.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/balahara.webp",
       "description": "Desert-dwelling leviathans that use their supple, serpentine bodies to create quicksand traps. Weak against sonic bombs when they're submerged.",
-      "drops": ["unknown"]
+     "drops": [
+        {
+          "lowrank":[
+                       "Balahara Scale (20%)",
+                       "Balahara Shell (20%)",
+                       "Balahara Skull (15%)",
+                       "Balahara Tail (11%)",
+                       "Aqua Sac (18%)",
+                       "Balahara Certificate (8%)",
+                       "Balahara Black Pearl (8%)"
+                    ]
+        },
+        {
+          "highrank":[
+                     "Balahara Scale+ (20%)",
+"Balahara Carapace (20%)",
+"Balahara Skull+ (13%)",
+"Balahara Tail (7%)",
+"Torrent Sac (18%)",
+"Balahara Certificate S (8%)",
+"Balahara Black Pearl (11%)",
+"Wyvern Gem (3%)",
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },  
     {
       "id": 4,
