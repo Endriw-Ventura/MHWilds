@@ -265,12 +265,31 @@
       "elements": ["unknown"],
       "ailments": ["frenzy"],
       "weaknesses": ["fire", "thunder", "dragon"],
-      "habitats": ["unknown"],
+      "habitats": ["Iceshard Cliffs"],
       "size": "Large",
+      "species": ["Demi Elder"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gore-magala.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gore-magala.webp",
-      "description": "Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry.",
-      "drops": ["unknown"]
+      "description": "Monsters that drape themselves in their great wings, like a black overcoat. They have no eye sensory organs, so instead they use a scattering of fine scales from their wings to locate prey. When their sensory capacity increases, antennae appear on their heads and they unfurl their wings, entering the aggressive Frenzy State. Their black scales can Frenzy other creatures as well, making them fearsome adversaries.",
+      "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                    "Gore Magala Wing+ (13%)",
+                    "Gore Magala Tail (11%)",
+                    "Gore Magala Scale+ (22%)",
+                    "Gore Magala Carapace (22%)",
+                    "Gore Magala Ripclaw+ (21%)",
+                    "Gore Magala Certificate S (8%)",
+                    "Gore Magala Nyctgem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 9,
