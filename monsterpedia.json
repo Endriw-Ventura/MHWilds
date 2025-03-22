@@ -12,7 +12,34 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/ajakaran.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/ajarakan.jpg",
       "description": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions. Presumably due to the friction of the metal, they can reach high enough temperatures to melt even the ground or bullets. They can also use their strong limbs to grip onto the ceiling and move around freely, so a hunter must watch out from every angle, including above.",
-      "drops": ["unknown"]
+      "drops": [
+        {
+          "lowrank":[
+                      "Ajarakan Scale (25%)",
+                      "Ajarakan Shell (25%)",
+                      "Ajarakan Ridge (11%)",
+                      "Ajarakan Tail (11%)",
+                      "Ajarakan Jewel (15%)",
+                      "Ajarakan Certificate (8%)",
+                      "Ajarakan Marrow (5%)"
+                    ]
+        },
+        {
+          "highrank":[
+                      "Ajarakan Scale+ (22%)",
+                      "Ajarakan Ridge+ (11%)",
+                      "Ajarakan Tail (11%)",
+                      "Ajarakan Carapace (22%)",
+                      "Ajarakan Jewel+ (16%)",
+                      "Ajarakan Certificate S (8%)",
+                      "Ajarakan Marrow (7%)",
+                      "Ajarakan Medulla (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 2,
