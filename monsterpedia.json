@@ -504,25 +504,34 @@
       "elements": ["unknown"],
       "ailments": ["poison", "noxious poison", "webbed"],
       "weaknesses": ["fire", "thunder"],
-      "habitats": ["Iceshard Cliffs"],
+      "habitats": ["Iceshard Cliffs", "Oilwell Basin"],
       "size": "Large",
+      "species": ["Temnoceran"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nerscylla.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/nerscylla.webp",
-      "description": "Temnocerans that build nests of sticky webbing. They rend prey with their pincer-like jaws after weakening them with abnormal statuses and ensnaring them in web. They will sometimes adorn themselves with the skin of morsels they have not completely finished eating.",
+      "description": "Temnocerans that inhabit the Iceshard Cliffs. They weave vast, sticky webs across their territory, using them and various status ailments to corner prey before utilizing pincer-like jaws to finish it off. Sometimes dead Gypceros can be found in their webs, the hides of which Nerscylla are known to adorn themselves with after devouring the rest of the carcass.",
        "drops": [
         {
-          "lowrank":[]
+          "lowrank":[
+            "Nerscylla Claw (15%)",
+            "Rubbery Hide (8%)",
+            "Nerscylla Shell (20%)",
+            "Nerscylla Spike (8%)",
+            "Nerscylla Chelicera (20%)",
+            "Sleep Sac (21%)",
+            "Nerscylla Certificate (8%)"
+          ]
         },
         {
           "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+            "Nerscylla Claw+ (15%)",
+            "Nerscylla Carapace (20%)",
+            "Rubbery Hide+ (8%)",
+            "Nerscylla Shear (20%)",
+            "Coma Sac (21%)",
+            "Nerscylla Certificate S (8%)",
+            "Nerscylla Spike+ (8%)"
+          ]
         },
         {
           "masterrank":[]
