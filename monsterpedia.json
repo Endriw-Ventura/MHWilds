@@ -130,10 +130,28 @@
       "weaknesses": ["fire"],
       "habitats": ["Iceshard Cliffs"],
       "size": "Large",
+      "species":["Fanged Beast"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/blangonga.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/blangonga.webp",
-      "description": "Leader of a Blango pack, it is twice as large and recognized by its giant fangs, whiskers, and head-crown. It sends its pack to attack any trespassers. Its jumping power allows it great mobility.",
-      "drops": ["unknown"]
+      "description": "Large, white fanged beasts that rule over other Blango, attacking intruders as a pack. Its muscularity and mobility allows it to strike swiftly, even on fresh snow, and pounce from a long distance—so hunters with long-range weapons still need to stay on guard. Large tusks are the mark of a powerful leader.",
+       "drops": [
+        {
+          "lowrank":[]
+        },
+        {
+          "highrank":[
+                       "Blangonga Certificate S (8%)",
+                       "Blangonga Tail (15%)",
+                       "Blangonga Whisker (27%)",
+                       "Blangonga Fang+ (20%)",
+                       "Blangonga Pelt+ (27%)",
+                       "Beast Gem (3%)"
+                    ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
     },
     {
       "id": 5,
