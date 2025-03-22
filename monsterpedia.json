@@ -807,8 +807,49 @@
         }
       ]
     },
-    {
+     {
       "id": 23,
+      "name": "Xu Wu",
+      "elements": ["unknown"],
+      "ailments": ["unknown"],
+      "weaknesses": ["ice"],
+      "habitats": ["Ruins of Wyveria"],
+      "size": "Large",
+      "species": ["Cephalopod"],
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/xu-wu.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/xu-wu.webp",
+      "description": "Cephalopod predators whose prey includes Guardian monsters. The mucus secreted from their tentacles hardens quickly into sharp edges that resemble blades or spears, which is why some call Xu Wu the Piercing Assassin. The sizable mouth hidden on their underside allows them to devour even rather large prey.",
+       "drops": [
+        {
+          "lowrank":[
+            "Xu Wu Hide (25%)",
+            "Xu Wu Claw (15%)",
+            "Xu Wu Certificate (8%)",
+            "Xu Wu Cerebrospinal Fluid (5%)",
+            "Xu Wu Tentacle (11%)",
+            "Xu Wu Fang (11%)",
+            "Golden Corneum (25%)"
+          ]
+        },
+        {
+          "highrank":[
+            "Xu Wu Cerebrospinal Fluid (7%)",
+            "Xu Wu Tentacle+ (11%)",
+            "Xu Wu Certificate S (8%)",
+            "Xu Wu Claw+ (16%)",
+            "Xu Wu Fang+ (11%)",
+            "Xu Wu Hide+ (22%)",
+            "Golden Corneum+ (22%)",
+            "Xu Wu Umbragem (3%)"
+          ]
+        },
+        {
+          "masterrank":[]
+        }
+      ]
+    },
+    {
+      "id": 24,
       "name": "Yian Kut-Ku",
       "elements": ["fire"],
       "ailments": ["fireblight"],
@@ -840,42 +881,19 @@
         }
       ]
     },
+   
     {
-      "id": 23,
-      "name": "Xu Wu",
-      "elements": ["unknown"],
-      "ailments": ["unknown"],
-      "weaknesses": ["ice"],
-      "habitats": ["Ruins of Wyveria"],
-      "size": "Large",
-      "species": ["Cephalopod"],
-      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/xu-wu.webp",
-      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/xu-wu.webp",
-      "description": "Cephalopod predators whose prey includes Guardian monsters. The mucus secreted from their tentacles hardens quickly into sharp edges that resemble blades or spears, which is why some call Xu Wu the Piercing Assassin. The sizable mouth hidden on their underside allows them to devour even rather large prey.",
-       "drops": [
-        {
-          "lowrank":[]
-        },
-        {
-          "highrank":[]
-        },
-        {
-          "masterrank":[]
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "name": "Yian Kut-Ku",
-      "elements": ["fire"],
-      "ailments": ["fireblight"],
-      "weaknesses": ["water", "ice"],
-      "habitats": ["Scarlet Forest", "Iceshard Cliffs"],
-      "size": "Large",
-      "species": ["Bird Wyvern"],
-      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/yian-kut-ku.webp",
-      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/yian-kut-ku.webp",
-      "description": "These monsters boast ample beaks and fan-like ears that splay open when angered. A cowardly species, they have dexterous, nimble legs perfect for running away. However, they show little mercy to smaller creatures that encroach on their territory.",
+      "id": 25,
+      "name": "Zoh Shia",
+      "elements": [""],
+      "ailments": [""],
+      "weaknesses": [""],
+      "habitats": [""],
+      "size": "Immense",
+      "species": [""],
+      "img": "",
+      "icon": "",
+      "description": "",
        "drops": [
         {
           "lowrank":[]
