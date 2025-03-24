@@ -14,30 +14,30 @@
       "description": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions. Presumably due to the friction of the metal, they can reach high enough temperatures to melt even the ground or bullets. They can also use their strong limbs to grip onto the ceiling and move around freely, so a hunter must watch out from every angle, including above.",
       "drops": [
         {
-          "lowrank":[
-                      "Ajarakan Scale (25%)",
-                      "Ajarakan Shell (25%)",
-                      "Ajarakan Ridge (11%)",
-                      "Ajarakan Tail (11%)",
-                      "Ajarakan Jewel (15%)",
-                      "Ajarakan Certificate (8%)",
-                      "Ajarakan Marrow (5%)"
-                    ]
+          "lowrank": [
+            "Ajarakan Scale (25%)",
+            "Ajarakan Shell (25%)",
+            "Ajarakan Ridge (11%)",
+            "Ajarakan Tail (11%)",
+            "Ajarakan Jewel (15%)",
+            "Ajarakan Certificate (8%)",
+            "Ajarakan Marrow (5%)"
+          ]
         },
         {
-          "highrank":[
-                      "Ajarakan Scale+ (22%)",
-                      "Ajarakan Ridge+ (11%)",
-                      "Ajarakan Tail (11%)",
-                      "Ajarakan Carapace (22%)",
-                      "Ajarakan Jewel+ (16%)",
-                      "Ajarakan Certificate S (8%)",
-                      "Ajarakan Marrow (7%)",
-                      "Ajarakan Medulla (3%)"
-                    ]
+          "highrank": [
+            "Ajarakan Scale+ (22%)",
+            "Ajarakan Ridge+ (11%)",
+            "Ajarakan Tail (11%)",
+            "Ajarakan Carapace (22%)",
+            "Ajarakan Jewel+ (16%)",
+            "Ajarakan Certificate S (8%)",
+            "Ajarakan Marrow (7%)",
+            "Ajarakan Medulla (3%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -48,36 +48,36 @@
       "ailments": ["dragonblight"],
       "weaknesses": ["dragon"],
       "habitats": [
-                  "Windward Plains",
-                  "Scarlet Forest",
-                  "Oilwell Basin",
-                  "Iceshard Cliffs",
-                  "Ruins of Wyveria"
-                  ],
+        "Windward Plains",
+        "Scarlet Forest",
+        "Oilwell Basin",
+        "Iceshard Cliffs",
+        "Ruins of Wyveria"
+      ],
       "size": "Large",
-      "species":["Flying Wyvern"],
+      "species": ["Flying Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/arkveld.webp",
       "icon": "unknown",
       "description": "A flying wyvern that was considered extinct according to documents left behind by the Guild. Their wings have a unique, chain-like blade that can extend and retract freely to reap their prey. They feed on elemental energy absorbed through these chainblades, and are able to convert the energy to unleash dragon element attacks.",
-     "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
-                      "Monster Hardbone (18%)",
-                      "Arkveld Certificate S (8%)",
-                      "Arkveld Scale+ (20%)",
-                      "Arkveld Armorplate (20%)",
-                      "White Arkveld Pelt (15%)",
-                      "Arkveld Horn+ (8%)",
-                      "Arkveld Tail (8%)",
-                      "Arkveld Calloushell (100%) (Breaking any chains)",
-                      "Arkveld Gem (3%)"
-                    ]
+          "highrank": [
+            "Monster Hardbone (18%)",
+            "Arkveld Certificate S (8%)",
+            "Arkveld Scale+ (20%)",
+            "Arkveld Armorplate (20%)",
+            "White Arkveld Pelt (15%)",
+            "Arkveld Horn+ (8%)",
+            "Arkveld Tail (8%)",
+            "Arkveld Calloushell (100%) (Breaking any chains)",
+            "Arkveld Gem (3%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -93,35 +93,35 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/balahara.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/balahara.webp",
       "description": "Desert-dwelling leviathans that use their supple, serpentine bodies to create quicksand traps. Weak against sonic bombs when they're submerged.",
-     "drops": [
+      "drops": [
         {
-          "lowrank":[
-                       "Balahara Scale (20%)",
-                       "Balahara Shell (20%)",
-                       "Balahara Skull (15%)",
-                       "Balahara Tail (11%)",
-                       "Aqua Sac (18%)",
-                       "Balahara Certificate (8%)",
-                       "Balahara Black Pearl (8%)"
-                    ]
+          "lowrank": [
+            "Balahara Scale (20%)",
+            "Balahara Shell (20%)",
+            "Balahara Skull (15%)",
+            "Balahara Tail (11%)",
+            "Aqua Sac (18%)",
+            "Balahara Certificate (8%)",
+            "Balahara Black Pearl (8%)"
+          ]
         },
         {
-          "highrank":[
-                     "Balahara Scale+ (20%)",
-                     "Balahara Carapace (20%)",
-                     "Balahara Skull+ (13%)",
-                     "Balahara Tail (7%)",
-                     "Torrent Sac (18%)",
-                     "Balahara Certificate S (8%)",
-                     "Balahara Black Pearl (11%)",
-                     "Wyvern Gem (3%)",
-                    ]
+          "highrank": [
+            "Balahara Scale+ (20%)",
+            "Balahara Carapace (20%)",
+            "Balahara Skull+ (13%)",
+            "Balahara Tail (7%)",
+            "Torrent Sac (18%)",
+            "Balahara Certificate S (8%)",
+            "Balahara Black Pearl (11%)",
+            "Wyvern Gem (3%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
-    },  
+    },
     {
       "id": 4,
       "name": "Blangonga",
@@ -134,22 +134,22 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/blangonga.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/blangonga.webp",
       "description": "Large, white fanged beasts that rule over other Blango, attacking intruders as a pack. Its muscularity and mobility allows it to strike swiftly, even on fresh snow, and pounce from a long distance—so hunters with long-range weapons still need to stay on guard. Large tusks are the mark of a powerful leader.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
-                       "Blangonga Certificate S (8%)",
-                       "Blangonga Tail (15%)",
-                       "Blangonga Whisker (27%)",
-                       "Blangonga Fang+ (20%)",
-                       "Blangonga Pelt+ (27%)",
-                       "Beast Gem (3%)"
-                    ]
+          "highrank": [
+            "Blangonga Certificate S (8%)",
+            "Blangonga Tail (15%)",
+            "Blangonga Whisker (27%)",
+            "Blangonga Fang+ (20%)",
+            "Blangonga Pelt+ (27%)",
+            "Beast Gem (3%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -165,27 +165,27 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/chatacabra.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/chatacabra.webp",
       "description": "Amphibians that affix rocks to their forelimbs to power up attacks. Break this 'armor' to create an attack opening. The tongue is most vulnerable.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
-                       "Chatacabra Shell (15%)",
-                       "Chatacabra Scale (27%)",
-                       "Chatacabra Hide (27%)",
-                       "Chatacabra Jaw (23%)",
-                       "Chatacabra Certificate (8%)"
-                    ]
+          "lowrank": [
+            "Chatacabra Shell (15%)",
+            "Chatacabra Scale (27%)",
+            "Chatacabra Hide (27%)",
+            "Chatacabra Jaw (23%)",
+            "Chatacabra Certificate (8%)"
+          ]
         },
         {
-          "highrank":[
-                    "Chatacabra Carapace (15%)",
-                    "Chatacabra Scale+ (27%)",
-                    "Chatacabra Hide+ (27%)",
-                    "Chatacabra Jaw+ (23%)",
-                    "Chatacabra Certificate S (8%)"
-                    ]
+          "highrank": [
+            "Chatacabra Carapace (15%)",
+            "Chatacabra Scale+ (27%)",
+            "Chatacabra Hide+ (27%)",
+            "Chatacabra Jaw+ (23%)",
+            "Chatacabra Certificate S (8%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -193,7 +193,15 @@
       "id": 6,
       "name": "Congalala",
       "elements": ["fire*", "*Specific Food Eaten*"],
-      "ailments": ["fireblight*", "blastblight*", "sleep*", "poison*", "paralysis*", "soiled", "*Specific Food Eaten*"],
+      "ailments": [
+        "fireblight*",
+        "blastblight*",
+        "sleep*",
+        "poison*",
+        "paralysis*",
+        "soiled",
+        "*Specific Food Eaten*"
+      ],
       "weaknesses": ["fire"],
       "habitats": ["Scarlet Forest", "Ruins of Wyveria"],
       "size": "Large",
@@ -201,28 +209,28 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/congalala.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/congalala.webp",
       "description": "Large, pink-furred Fanged Beasts with an incredible appetite - especially for mushrooms, which the monster often carries around with them. They let rip the most almighty farts, the stench of which overwhelms opponents.",
-        "drops": [
+      "drops": [
         {
-          "lowrank":[
-                       "Congalala Pelt (27%)",
-                       "Congalala Claw (23%)",
-                       "Vibrant Pelt (15%)",
-                       "Congalala Fang (27%)",
-                       "Congalala Certificate (8%)"
-                    ]
+          "lowrank": [
+            "Congalala Pelt (27%)",
+            "Congalala Claw (23%)",
+            "Vibrant Pelt (15%)",
+            "Congalala Fang (27%)",
+            "Congalala Certificate (8%)"
+          ]
         },
         {
-          "highrank":[
-                      "Congalala Pelt+ (27%)",
-                      "Congalala Claw+ (20%)",
-                      "Vibrant Pelt+ (15%)",
-                      "Congalala Fang+ (27%)",
-                      "Congalala Certificate S (8%)",
-                      "Beast Gem (3%)"
-                    ]
+          "highrank": [
+            "Congalala Pelt+ (27%)",
+            "Congalala Claw+ (20%)",
+            "Vibrant Pelt+ (15%)",
+            "Congalala Fang+ (27%)",
+            "Congalala Certificate S (8%)",
+            "Beast Gem (3%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -240,26 +248,26 @@
       "description": "Rugged, territorial fanged beasts that exhibit an aggressive disposition and inhabit a large range. Sometimes observed in large packs.",
       "drops": [
         {
-          "lowrank":[
-                     "Doshaguma Fur (27%)",
-                      "Doshaguma Claw (15%)",
-                      "Doshaguma Hide (27%)",
-                      "Doshaguma Fang (20%)",
-                      "Doshaguma Certificate (11%)"
-                    ]
+          "lowrank": [
+            "Doshaguma Fur (27%)",
+            "Doshaguma Claw (15%)",
+            "Doshaguma Hide (27%)",
+            "Doshaguma Fang (20%)",
+            "Doshaguma Certificate (11%)"
+          ]
         },
         {
-          "highrank":[
-                     "Doshaguma Hide+ (3%)",
-                     "Doshaguma Fur+ (2%)"
-                    ]
+          "highrank": [
+            "Doshaguma Hide+ (3%)",
+            "Doshaguma Fur+ (2%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
-   {
+    {
       "id": 8,
       "name": "Gore Magala",
       "elements": ["unknown"],
@@ -273,21 +281,21 @@
       "description": "Monsters that drape themselves in their great wings, like a black overcoat. They have no eye sensory organs, so instead they use a scattering of fine scales from their wings to locate prey. When their sensory capacity increases, antennae appear on their heads and they unfurl their wings, entering the aggressive Frenzy State. Their black scales can Frenzy other creatures as well, making them fearsome adversaries.",
       "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
-                    "Gore Magala Wing+ (13%)",
-                    "Gore Magala Tail (11%)",
-                    "Gore Magala Scale+ (22%)",
-                    "Gore Magala Carapace (22%)",
-                    "Gore Magala Ripclaw+ (21%)",
-                    "Gore Magala Certificate S (8%)",
-                    "Gore Magala Nyctgem (3%)"
-                    ]
+          "highrank": [
+            "Gore Magala Wing+ (13%)",
+            "Gore Magala Tail (11%)",
+            "Gore Magala Scale+ (22%)",
+            "Gore Magala Carapace (22%)",
+            "Gore Magala Ripclaw+ (21%)",
+            "Gore Magala Certificate S (8%)",
+            "Gore Magala Nyctgem (3%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -303,202 +311,203 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gravios.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gravios.webp",
       "description": "Large wyverns found in Oilwell Basin. They have a developed physique, powerful heat rays, and a host of gases they can emit from their body. Their bony carapaces are famously tough but expose a suprisingly brittle interior once destroyed.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
-                        "Coma Sac (13%)",
-                        "Inferno Sac (13%)",
-                        "Gravios Certificate S (8%)",
-                        "Gravios Medulla (8%)",
-                        "Gravios Wing (20%)",
-                        "Gravios Pleura+ (15%)",
-                        "Gravios Carapace (20%)",
-                        "Firecell Stone (40%)",
-                        "Gravios Skull (13% Body)",
-                        "Gravios Medulla (11% Body)",
-                        "Wyvern Gem (3%)"
-                    ]
+          "highrank": [
+            "Coma Sac (13%)",
+            "Inferno Sac (13%)",
+            "Gravios Certificate S (8%)",
+            "Gravios Medulla (8%)",
+            "Gravios Wing (20%)",
+            "Gravios Pleura+ (15%)",
+            "Gravios Carapace (20%)",
+            "Firecell Stone (40%)",
+            "Gravios Skull (13% Body)",
+            "Gravios Medulla (11% Body)",
+            "Wyvern Gem (3%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
     {
-    "id": 10,
-    "name": "Guardian Arkveld",
-    "elements": ["dragon"],
-    "ailments": ["dragonblight"],
-    "weaknesses": ["dragon"],
-    "habitats": ["Ruins of Wyveria"],
-    "size": "Large",
-    "species": ["Construct"],
-    "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-arkveld.webp",
-    "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-arkveld.webp",
-    "description": "An artificial species created by an ancient civilization and imbued with the power of a monster called Arkveld. It cannot reproduce and does not require food, relying instead on Wyvern Milk. In addition to absorbing and discharging energy the way other Guardians do, Guardian Arkveld can also absorb elemental energy through the chainblades on its wings and use it for sustenance.",
-    "drops": {
-      "lowrank": [],
-      "highrank": [ 
-        "Nourishing Extract (30%)",
-        "Tough Guardian Bone (20%)",
-        "Guardian Blood (10%)",
-        "Guardian Scale (20%)",
-        "Guardian Pelt (20%)"],
-      "masterrank": []
-    }
-  },
-  {
-    "id": 11,
-    "name": "Guardian Doshaguma",
-    "elements": ["unknown"],
-    "ailments": ["unknown"],
-    "weaknesses": ["fire", "thunder", "ice", "dragon"],
-    "habitats": ["Ruins of Wyveria"],
-    "size": "Large",
-    "species": ["Construct"],
-    "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-doshaguma.webp",
-    "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-doshaguma.webp",
-    "description": "An artificial monster species created by an ancient civilization and imbued with Doshaguma's power. Guardian Doshaguma, cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. While anything but agile, they're tough enough to charge right through attacks without flinching, making them extremely dangerous.",
-    "drops": {
-      "lowrank": [
-        "Guardian Doshaguma Fur (22%)",
-        "Guardian Doshaguma Claw (13%)",
-        "Guardian Doshaguma Hide (15%)",
-        "Guardian Doshaguma Fang (15%)",
-        "Nourishing Extract (20%)",
-        "Guardian Doshaguma Certificate (8%)",
-        "Guardian Pelt (12%)",
-        "Guardian Blood (8%)"
-      ],
-      "highrank": [
-        "Guardian Doshaguma Fur+ (22%)",
-        "Guardian Doshaguma Fang+ (10%)",
-        "Guardian Doshaguma Hide+ (22%)",
-        "Guardian Doshaguma Claw+ (15%)",
-        "Nourishing Extract (20%)",
-        "Guardian Doshaguma Certificate S (8%)",
-        "Guardian Pelt+ (12%)",
-        "Guardian Blood+ (8%)",
-        "Beast Gem (3%)"
-      ],
-      "masterrank": []
-    }
-  },
-  {
-    "id": 12,
-    "name": "Guardian Ebony Odogaron",
-    "elements": ["dragon"],
-    "ailments": ["dragonblight", "bleeding"],
-    "weaknesses": ["water"],
-    "habitats": ["Ruins of Wyveria"],
-    "size": "Large",
-    "species": ["Construct"],
-    "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-ebony-odogaron.webp",
-    "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-ebony-odogaron.webp",
-    "description": "An artifical monster species created by an ancient civilization and imbued with Ebony Odogaron's power. Guardian Ebony Odogaron cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. They will attempt to corner targets with flurries of attacks from their well-developed claws and tails.",
-    "drops": {
-      "lowrank": [
-        "Nourishing Extract (8%)",
-        "Guardian Ebony Claw (15%)",
-        "Guardian Ebony Fang (8%)",
-        "Guardian Ebony Tail (8%)",
-        "Guardian Ebony Sinew (20%)",
-        "Guardian Ebony Scale (20%)",
-        "Guardian Ebony Odogaron Certificate (8%)",
-        "Guardian Blood (8%)",
-        "Guardian Scale (12%)",
-        "Guardian Ebony Plate (3%)"
-      ],
-      "highrank": [
-        "Nourishing Extract (16%)",
-        "Guardian Ebony Tail (8%)",
-        "Guardian Ebony Plate (7%)",
-        "Guardian Ebony Odogaron Certificate S (8%)",
-        "Guardian Ebony Gem (3%)",
-        "Guardian Ebony Fang+ (8%)",
-        "Guardian Ebony Claw+ (14%)",
-        "Guardian Ebony Sinew+ (18%)",
-        "Guardian Ebony Scale+ (18%)",
-        "Guardian Blood+ (8%)",
-        "Guardian Scale+ (12%)"
-      ],
-      "masterrank": []
-    }
-  },
-  {
-    "id": 13,
-    "name": "Guardian Fulgur Anjanath",
-    "elements": ["thunder"],
-    "ailments": ["thunderblight"],
-    "weaknesses": ["ice", "water", "dragon"],
-    "habitats": ["Ruins of Wyveria"],
-    "size": "Large",
-    "species": ["Construct"],
-    "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-fulgur-anjanath.webp",
-    "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-fulgur-anjanath.webp",
-    "description": "An artificial monster species created by an ancient civilization and imbued with Fulgur Anjanath's power. Guardian Fulgur Anjanath cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Not only can the lightning charged in their bodies be released as an attack, they can also use it to empower themselves and perform vicious biting attacks.",
-    "drops": {
-      "lowrank": [],
-      "highrank": [ 
-        "Guardian Fulgur Scale+ (20%)",
-        "Guardian Fulgur Nosebone+ (8%)",
-        "Guardian Fulgur Tail (8%)",
-        "Guardian Fulgur Fang+ (15%)",
-        "Thunder Sac (18%)",
-        "Guardian Fulgur Certificate S (8%)",
-        "Guardian Fulgur Gem (3%)",
-        "Guardian Fulgur Pelt+ (20%)",
-        "Guardian Pelt+ (12%)",
-        "Guardian Blood+ (8%)"
-      ],
-      "masterrank": []
-    }
-  },
-  {
-    "id": 14,
-    "name": "Guardian Rathalos",
-    "elements": ["fire"],
-    "ailments": ["fireblight", "poison", "stun"],
-    "weaknesses": ["thunder", "dragon"],
-    "habitats": ["Ruins of Wyveria"],
-    "size": "Large",
-    "species": ["Construct"],
-    "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-rathalos.webp",
-    "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-rathalos.webp",
-    "description": "An artifical monster species created by an ancient civilization and imbued with Rathalos's power. Guardian Rathalos cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Just like the original Rathalos, they are superior fliers and will attack more violently with their claws while airborne.",
-    "drops": {
-      "lowrank": [
-        "Guardian Rathalos Webbing (15%)",
-        "Guardian Rathalos Tail (10%)",
-        "Guardian Rathalos Shell (22%)",
-        "Guardian Rathalos Scale (22%)",
-        "Flame Sac (20%)",
-        "Guardian Rathalos Certificate (8%)",
-        "Guardian Rathalos Plate (5%)",
-        "Guardian Scale (12%)",
-        "Guardian Blood (8%)"
-      ],
-      "highrank": [
-        "Guardian Rathalos Webbing (15%)",
-        "Guardian Rathalos Wing (24%)",
-        "Guardian Rathalos Tail (11%)",
-        "Guardian Rathalos Shell (22%)",
-        "Guardian Rathalos Scale+ (20%)",
-        "Guardian Rathalos Carapace (27%)",
-        "Inferno Sac (17%)",
-        "Flame Sac (20%)",
-        "Guardian Rathalos Plate (7%)",
-        "Guardian Rathalos Certificate S (8%)",
-        "Guardian Rathalos Ruby (5%)",
-        "Guardian Scale+ (12%)",
-        "Guardian Blood+ (8%)"
-      ],
-      "masterrank": []
-    }
-  },
+      "id": 10,
+      "name": "Guardian Arkveld",
+      "elements": ["dragon"],
+      "ailments": ["dragonblight"],
+      "weaknesses": ["dragon"],
+      "habitats": ["Ruins of Wyveria"],
+      "size": "Large",
+      "species": ["Construct"],
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-arkveld.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-arkveld.webp",
+      "description": "An artificial species created by an ancient civilization and imbued with the power of a monster called Arkveld. It cannot reproduce and does not require food, relying instead on Wyvern Milk. In addition to absorbing and discharging energy the way other Guardians do, Guardian Arkveld can also absorb elemental energy through the chainblades on its wings and use it for sustenance.",
+      "drops": {
+        "lowrank": [],
+        "highrank": [
+          "Nourishing Extract (30%)",
+          "Tough Guardian Bone (20%)",
+          "Guardian Blood (10%)",
+          "Guardian Scale (20%)",
+          "Guardian Pelt (20%)"
+        ],
+        "masterrank": []
+      }
+    },
+    {
+      "id": 11,
+      "name": "Guardian Doshaguma",
+      "elements": ["unknown"],
+      "ailments": ["unknown"],
+      "weaknesses": ["fire", "thunder", "ice", "dragon"],
+      "habitats": ["Ruins of Wyveria"],
+      "size": "Large",
+      "species": ["Construct"],
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-doshaguma.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-doshaguma.webp",
+      "description": "An artificial monster species created by an ancient civilization and imbued with Doshaguma's power. Guardian Doshaguma cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. While anything but agile, they're tough enough to charge right through attacks without flinching, making them extremely dangerous.",
+      "drops": {
+        "lowrank": [
+          "Guardian Doshaguma Fur (22%)",
+          "Guardian Doshaguma Claw (13%)",
+          "Guardian Doshaguma Hide (15%)",
+          "Guardian Doshaguma Fang (15%)",
+          "Nourishing Extract (20%)",
+          "Guardian Doshaguma Certificate (8%)",
+          "Guardian Pelt (12%)",
+          "Guardian Blood (8%)"
+        ],
+        "highrank": [
+          "Guardian Doshaguma Fur+ (22%)",
+          "Guardian Doshaguma Fang+ (10%)",
+          "Guardian Doshaguma Hide+ (22%)",
+          "Guardian Doshaguma Claw+ (15%)",
+          "Nourishing Extract (20%)",
+          "Guardian Doshaguma Certificate S (8%)",
+          "Guardian Pelt+ (12%)",
+          "Guardian Blood+ (8%)",
+          "Beast Gem (3%)"
+        ],
+        "masterrank": []
+      }
+    },
+    {
+      "id": 12,
+      "name": "Guardian Ebony Odogaron",
+      "elements": ["dragon"],
+      "ailments": ["dragonblight", "bleeding"],
+      "weaknesses": ["water"],
+      "habitats": ["Ruins of Wyveria"],
+      "size": "Large",
+      "species": ["Construct"],
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-ebony-odogaron.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-ebony-odogaron.webp",
+      "description": "An artifical monster species created by an ancient civilization and imbued with Ebony Odogaron's power. Guardian Ebony Odogaron cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. They will attempt to corner targets with flurries of attacks from their well-developed claws and tails.",
+      "drops": {
+        "lowrank": [
+          "Nourishing Extract (8%)",
+          "Guardian Ebony Claw (15%)",
+          "Guardian Ebony Fang (8%)",
+          "Guardian Ebony Tail (8%)",
+          "Guardian Ebony Sinew (20%)",
+          "Guardian Ebony Scale (20%)",
+          "Guardian Ebony Odogaron Certificate (8%)",
+          "Guardian Blood (8%)",
+          "Guardian Scale (12%)",
+          "Guardian Ebony Plate (3%)"
+        ],
+        "highrank": [
+          "Nourishing Extract (16%)",
+          "Guardian Ebony Tail (8%)",
+          "Guardian Ebony Plate (7%)",
+          "Guardian Ebony Odogaron Certificate S (8%)",
+          "Guardian Ebony Gem (3%)",
+          "Guardian Ebony Fang+ (8%)",
+          "Guardian Ebony Claw+ (14%)",
+          "Guardian Ebony Sinew+ (18%)",
+          "Guardian Ebony Scale+ (18%)",
+          "Guardian Blood+ (8%)",
+          "Guardian Scale+ (12%)"
+        ],
+        "masterrank": []
+      }
+    },
+    {
+      "id": 13,
+      "name": "Guardian Fulgur Anjanath",
+      "elements": ["thunder"],
+      "ailments": ["thunderblight"],
+      "weaknesses": ["ice", "water", "dragon"],
+      "habitats": ["Ruins of Wyveria"],
+      "size": "Large",
+      "species": ["Construct"],
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-fulgur-anjanath.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-fulgur-anjanath.webp",
+      "description": "An artificial monster species created by an ancient civilization and imbued with Fulgur Anjanath's power. Guardian Fulgur Anjanath cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Not only can the lightning charged in their bodies be released as an attack, they can also use it to empower themselves and perform vicious biting attacks.",
+      "drops": {
+        "lowrank": [],
+        "highrank": [
+          "Guardian Fulgur Scale+ (20%)",
+          "Guardian Fulgur Nosebone+ (8%)",
+          "Guardian Fulgur Tail (8%)",
+          "Guardian Fulgur Fang+ (15%)",
+          "Thunder Sac (18%)",
+          "Guardian Fulgur Certificate S (8%)",
+          "Guardian Fulgur Gem (3%)",
+          "Guardian Fulgur Pelt+ (20%)",
+          "Guardian Pelt+ (12%)",
+          "Guardian Blood+ (8%)"
+        ],
+        "masterrank": []
+      }
+    },
+    {
+      "id": 14,
+      "name": "Guardian Rathalos",
+      "elements": ["fire"],
+      "ailments": ["fireblight", "poison", "stun"],
+      "weaknesses": ["thunder", "dragon"],
+      "habitats": ["Ruins of Wyveria"],
+      "size": "Large",
+      "species": ["Construct"],
+      "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/guardian-rathalos.webp",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-rathalos.webp",
+      "description": "An artifical monster species created by an ancient civilization and imbued with Rathalos's power. Guardian Rathalos cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Just like the original Rathalos, they are superior fliers and will attack more violently with their claws while airborne.",
+      "drops": {
+        "lowrank": [
+          "Guardian Rathalos Webbing (15%)",
+          "Guardian Rathalos Tail (10%)",
+          "Guardian Rathalos Shell (22%)",
+          "Guardian Rathalos Scale (22%)",
+          "Flame Sac (20%)",
+          "Guardian Rathalos Certificate (8%)",
+          "Guardian Rathalos Plate (5%)",
+          "Guardian Scale (12%)",
+          "Guardian Blood (8%)"
+        ],
+        "highrank": [
+          "Guardian Rathalos Webbing (15%)",
+          "Guardian Rathalos Wing (24%)",
+          "Guardian Rathalos Tail (11%)",
+          "Guardian Rathalos Shell (22%)",
+          "Guardian Rathalos Scale+ (20%)",
+          "Guardian Rathalos Carapace (27%)",
+          "Inferno Sac (17%)",
+          "Flame Sac (20%)",
+          "Guardian Rathalos Plate (7%)",
+          "Guardian Rathalos Certificate S (8%)",
+          "Guardian Rathalos Ruby (5%)",
+          "Guardian Scale+ (12%)",
+          "Guardian Blood+ (8%)"
+        ],
+        "masterrank": []
+      }
+    },
     {
       "id": 15,
       "name": "Gypceros",
@@ -511,29 +520,29 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/gypceros.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/gypceros.webp",
       "description": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
-                   "Rubbery Hide+ (22%)",
-                   "Gypceros Head (10%)",
-                   "Gypceros Wing (22%)",
-                   "Gypceros Tail (15%)",
-                   "Toxin Sac (20%)",
-                   "Gypceros Certificate S (3%)",
-                   "Bird Wyvern Gem (3%)",
-                   "Novacrystal (12%)",
-                   "Dash Extract (43%)"
-                    ]
+          "highrank": [
+            "Rubbery Hide+ (22%)",
+            "Gypceros Head (10%)",
+            "Gypceros Wing (22%)",
+            "Gypceros Tail (15%)",
+            "Toxin Sac (20%)",
+            "Gypceros Certificate S (3%)",
+            "Bird Wyvern Gem (3%)",
+            "Novacrystal (12%)",
+            "Dash Extract (43%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
-     {
+    {
       "id": 16,
       "name": "Hirabami",
       "elements": ["ice"],
@@ -545,9 +554,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/hirabami.webp",
       "icon": "unknown",
       "description": "Leviathans that inhabit the Iceshard Cliffs. They have sharp, pincer like tails and peculiar membranes on their necks that catch the wind and keep them aloft. Hirabami can sometimes be sighted nesting in groups along the cliffs, using their scales or foreclaws to cling to walls or ceilings while they sleep.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Hirabami Tail Claw (10%)",
             "Hirabami Scale (22%)",
             "Hirabami Hide (22%)",
@@ -557,18 +566,18 @@
           ]
         },
         {
-          "highrank":[
-                    "Hirabami Tail Claw+ (10%)",
-                    "Hirabami Scale+ (22%)",
-                    "Hirabami Hide+ (22%)",
-                    "Hirabami Webbing+ (15%)",
-                    "Freezer Sac (20%)",
-                    "Hirabami Certificate S (8%)",
-                    "Wyvern Gem (3%)"
-                    ]
+          "highrank": [
+            "Hirabami Tail Claw+ (10%)",
+            "Hirabami Scale+ (22%)",
+            "Hirabami Hide+ (22%)",
+            "Hirabami Webbing+ (15%)",
+            "Freezer Sac (20%)",
+            "Hirabami Certificate S (8%)",
+            "Wyvern Gem (3%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -584,25 +593,25 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/jin_dahaad.webp",
       "icon": "unknown",
       "description": "A leviathan that sits at the peak of the Iceshard Cliff's ecosystem. It surrounds its massive form in cold temperatures via ridge-like cooling organs across its body; the frost its limbs produce doubles as a potent weapon and a way to travel along walls and floating rocks.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
-                      "Freezer Sac (18%)",
-                      "Jin Dahaad Claw+ (15%)",
-                      "Jin Dahaad Horn (8%)",
-                      "Jin Dahaad Tail (8%)",
-                      "Jin Dahaad Icegem (3%)",
-                      "Jin Dahaad Scale+ (20%)",
-                      "Jin Dahaad Carapace (20%)",
-                      "Jin Dahaad Certificate S (8%)",
-                      "Jin Dahaad Iceplate (88%)"
-                    ]
+          "highrank": [
+            "Freezer Sac (18%)",
+            "Jin Dahaad Claw+ (15%)",
+            "Jin Dahaad Horn (8%)",
+            "Jin Dahaad Tail (8%)",
+            "Jin Dahaad Icegem (3%)",
+            "Jin Dahaad Scale+ (20%)",
+            "Jin Dahaad Carapace (20%)",
+            "Jin Dahaad Certificate S (8%)",
+            "Jin Dahaad Iceplate (88%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -618,9 +627,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/lala-barina.webp",
       "icon": "unknown",
       "description": "Temnocerans native to the Scarlet Forest with distinctive, pirouette-like movements. Their fluids contain a neuroplegic agent which they mix with water to produce red, petal-like bristles on their abdomens. When agitated, Lala Barina open these bristles like a deadly, blossoming flower and release them as florets that paralyze whatever they come into contact with.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Lala Barina Claw (11%)",
             "Lala Barina Floret (20%)",
             "Lala Barina Stinger (8%)",
@@ -631,22 +640,22 @@
           ]
         },
         {
-          "highrank":[
-                    "Lala Barina Claw+ (11%)",
-                    "Lala Barina Floret+ (20%)",
-                    "Lala Barina Stinger+ (8%)",
-                    "Lala Barina Carapace (20%)",
-                    "Lala Barina Mucus+ (15%)",
-                    "Monster Broth (18%)",
-                    "Lala Barina Certificate S (8%)"
-                    ]
+          "highrank": [
+            "Lala Barina Claw+ (11%)",
+            "Lala Barina Floret+ (20%)",
+            "Lala Barina Stinger+ (8%)",
+            "Lala Barina Carapace (20%)",
+            "Lala Barina Mucus+ (15%)",
+            "Monster Broth (18%)",
+            "Lala Barina Certificate S (8%)"
+          ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
-     {
+    {
       "id": 19,
       "name": "Mizutsune",
       "elements": ["water"],
@@ -658,15 +667,15 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/mizutsune.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/mizutsune.webp",
       "description": "A specially evolved Leviathan with a sleek, lithe body. Mizutsune can secrete a peculiar fluid that covers its foes in immobilizing bubbles. Once its foe's movement is impaired, it closes in with spry, dance-like movements.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[]
+          "highrank": []
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -682,9 +691,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nerscylla.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/nerscylla.webp",
       "description": "Temnocerans that inhabit the Iceshard Cliffs. They weave vast, sticky webs across their territory, using them and various status ailments to corner prey before utilizing pincer-like jaws to finish it off. Sometimes dead Gypceros can be found in their webs, the hides of which Nerscylla are known to adorn themselves with after devouring the rest of the carcass.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Nerscylla Claw (15%)",
             "Rubbery Hide (8%)",
             "Nerscylla Shell (20%)",
@@ -695,7 +704,7 @@
           ]
         },
         {
-          "highrank":[
+          "highrank": [
             "Nerscylla Claw+ (15%)",
             "Nerscylla Carapace (20%)",
             "Rubbery Hide+ (8%)",
@@ -706,7 +715,7 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -722,9 +731,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/nu-udra.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/nu-udra.webp",
       "description": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. A vision of hell, it attacks with tentacles and ignited oilsilt.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Nu Udra Hide (25%)",
             "Nu Udra Spike (15%)",
             "Nu Udra Horn (11%)",
@@ -735,7 +744,7 @@
           ]
         },
         {
-          "highrank":[
+          "highrank": [
             "Nu Udra Cerebrospinal Fluid (7%)",
             "Nu Udra Certificate S (8%)",
             "Nu Udra Flamegem (3%)",
@@ -747,7 +756,7 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -763,9 +772,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/quematrice.webp",
       "icon": "unknown",
       "description": "Brute wyverns with disproportionately long tails. They spread a flammable substance which vaporizes quickly, then ignite it by dragging their tails along the ground. By nature, Quematrice rarely hunt their own prey, and instead scavenge herbivore carrion left behind by other predators. This often leads to confrontations with other, smaller carnivores.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Quematrice Scale (25%)",
             "Quematrice Hide (25%)",
             "Quematrice Crest (14%)",
@@ -775,7 +784,7 @@
           ]
         },
         {
-          "highrank":[
+          "highrank": [
             "Quematrice Scale+ (25%)",
             "Quematrice Hide+ (25%)",
             "Quematrice Crest+ (11%)",
@@ -786,7 +795,7 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -802,12 +811,12 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathalos.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rathalos.webp",
       "description": "Fearsome male wyverns known as the Kings of the Skies. Alongside the Rathian, they stake out a wide territory around their nests, and it is the male's role to watch from above. Armed with powerful poisonous claws and fiery breath, Rathalos use their aerial prowess to descend on invaders.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
+          "highrank": [
             "Rathalos Wing (15%)",
             "Rathalos Scale+ (20%)",
             "Rathalos Carapace (20%)",
@@ -819,7 +828,7 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -835,12 +844,12 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rathian.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rathian.webp",
       "description": "Fire-breathing female wyverns, also known as the Queens of the Land. With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathians and Rathalos cooperate well.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
+          "highrank": [
             "Rathian Webbing (15%)",
             "Rathian Scale+ (20%)",
             "Rathian Carapace (20%)",
@@ -852,7 +861,7 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -868,9 +877,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rey-dau.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/rey-dau.webp",
       "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It is able to store, amplify, and discharge the Sandtide's lightning.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Rey Dau Tail (11%)",
             "Rey Dau Plate (5%)",
             "Rey Dau Certificate (8%)",
@@ -881,7 +890,7 @@
           ]
         },
         {
-          "highrank":[
+          "highrank": [
             "Rey Dau Tail (11%)",
             "Rey Dau Carapace (22%)",
             "Rey Dau Plate (7%)",
@@ -893,7 +902,7 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -904,14 +913,14 @@
       "ailments": ["poison"],
       "weaknesses": ["water"],
       "habitats": ["Oilwell Basin"],
-      "size": "Large",      
+      "size": "Large",
       "species": ["Brute Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/rompopolo.webp",
       "icon": "unknown",
       "description": "Dappled brute wyverns that prowl Oilwell Basin. They use their tails to inject gas into the ground and detonate it, then feed on the small creatures that are unearthed. The toxic gas they spray from their tongues serve to weaken prey, which they then finish off with the blasts. Rompopolo are extremely territorial and will readily engage their own kind.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Rompopolo Hide (25%)",
             "Rompopolo Claw (15%)",
             "Rompopolo Beak (22%)",
@@ -921,7 +930,7 @@
           ]
         },
         {
-          "highrank":[
+          "highrank": [
             "Rompopolo Hide+ (22%)",
             "Rompopolo Claw+ (15%)",
             "Spotted Poison Hide+ (10%)",
@@ -932,11 +941,11 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
-        {
+    {
       "id": 27,
       "name": "Uth Duna",
       "elements": ["water"],
@@ -948,9 +957,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/uth-duna.webp",
       "icon": "unknown",
       "description": "The leviathan that reigns supreme over the Scarlet Forest's ecosystem. It has adapted to water-rich environments and is sighted most often during the Downpour. Uth Duna's secretions when combined with water form a protective veil that not only absorbs hostile blows but also adds weight, which it slams down with enough force to sweep away surrounding threats in the resulting wave.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Aqua Sac (16%)",
             "Uth Duna Certificate (8%)",
             "Uth Duna Scale (20%)",
@@ -962,7 +971,7 @@
           ]
         },
         {
-          "highrank":[
+          "highrank": [
             "Torrent Sac (16%)",
             "Uth Duna Plate (7%)",
             "Uth Duna Certificate S (7%)",
@@ -975,11 +984,11 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
-     {
+    {
       "id": 28,
       "name": "Xu Wu",
       "elements": ["unknown"],
@@ -991,9 +1000,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/xu-wu.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/xu-wu.webp",
       "description": "Cephalopod predators whose prey includes Guardian monsters. The mucus secreted from their tentacles hardens quickly into sharp edges that resemble blades or spears, which is why some call Xu Wu the Piercing Assassin. The sizable mouth hidden on their underside allows them to devour even rather large prey.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Xu Wu Hide (25%)",
             "Xu Wu Claw (15%)",
             "Xu Wu Certificate (8%)",
@@ -1004,7 +1013,7 @@
           ]
         },
         {
-          "highrank":[
+          "highrank": [
             "Xu Wu Cerebrospinal Fluid (7%)",
             "Xu Wu Tentacle+ (11%)",
             "Xu Wu Certificate S (8%)",
@@ -1016,7 +1025,7 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -1032,12 +1041,12 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/yian-kut-ku.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/yian-kut-ku.webp",
       "description": "These monsters boast ample beaks and fan-like ears that splay open when angered. A cowardly species, they have dexterous, nimble legs perfect for running away. However, they show little mercy to smaller creatures that encroach on their territory.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[]
+          "lowrank": []
         },
         {
-          "highrank":[
+          "highrank": [
             "Kut-Ku Scale+ (20%)",
             "Kut-Ku Carapace (20%)",
             "Kut-Ku Ear (8%)",
@@ -1049,7 +1058,7 @@
           ]
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     },
@@ -1065,9 +1074,9 @@
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/zoh-shia.webp",
       "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/zoh-shia.webp",
       "description": "A massive Guardian that has been feeding off the Dragontorch's energy. Its body is encased in crystallized Wyvern Milk, allowing it to regenerate. Zoh Shia, like other Guardians, excels at energy attacks and can produce repeated explosions to crystallize the whole area. Beneath its white Guardian coat, its body pulses with dark recollection - which you may see, should it reveal its full power from the days of yore.",
-       "drops": [
+      "drops": [
         {
-          "lowrank":[
+          "lowrank": [
             "Nourishing Extract (30%)",
             "Tough Guardian Bone (20%)",
             "Guardian Blood (20%)",
@@ -1076,10 +1085,10 @@
           ]
         },
         {
-          "highrank":[]
+          "highrank": []
         },
         {
-          "masterrank":[]
+          "masterrank": []
         }
       ]
     }
