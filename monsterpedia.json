@@ -57,7 +57,7 @@
       "size": "Large",
       "species": ["Flying Wyvern"],
       "img": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/images/arkveld.webp",
-      "icon": "unknown",
+      "icon": "https://raw.githubusercontent.com/Endriw-Ventura/MHWilds/refs/heads/main/icons/guardian-arkveld.webp",
       "description": "A flying wyvern that was considered extinct according to documents left behind by the Guild. Their wings have a unique, chain-like blade that can extend and retract freely to reap their prey. They feed on elemental energy absorbed through these chainblades, and are able to convert the energy to unleash dragon element attacks.",
       "drops": [
         {
